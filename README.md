@@ -25,13 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miftahul-adib&show_icons=true&locale=en" alt="miftahul-adib" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miftahul-adib&" alt="miftahul-adib" /></p>
-
-
-
-🤝 I'm looking to collaborate on any type of Machine learning and Ai projects or contests 
-
-💬Fact: I am a slow learner but I do learn
 
 Email: miftahuladib04@gmail.com 
 

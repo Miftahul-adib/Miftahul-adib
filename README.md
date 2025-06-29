@@ -9,7 +9,7 @@
 
 ---
 
-- 🌱 I’m currently learning **PyTorch** and **LangChain**
+- 🌱 I’m currently learning **GenAi**
 - 🤝 I’m open to collaborating on **any kind of ML project**
 - 💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories)
 - ⚡ Fun fact: **I think I’m funny 😄**

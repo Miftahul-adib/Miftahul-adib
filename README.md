@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi , I'm Miftahul Alam Adib</h1>
-<h3 align="center">A passionate ML enthusiast from Bangladesh</h3>
+<h3 align="center">A passionate ML enthusiast </h3>
 
 
 

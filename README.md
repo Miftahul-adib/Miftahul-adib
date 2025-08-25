@@ -66,7 +66,7 @@
 
 
 
-<img src="FB_IMG_1756095166870.jpg" width="600" />
+<img src="FB_IMG_1756095166870.jpg" width="500" />
 ---
 
 

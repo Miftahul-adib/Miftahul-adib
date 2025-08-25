@@ -65,7 +65,8 @@
 </p>
 
 
-![Meme](FB_IMG_1756095166870.jpg)
+
+<img src="FB_IMG_1756095166870.jpg" width="300" />
 ---
 
 

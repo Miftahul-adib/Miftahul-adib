@@ -66,7 +66,7 @@
   If life gives you bugs, watch memes
 </h4>
 <h1 align="center">
-  <img src="FB_IMG_1756095166870.jpg" width="500" />
+  <img src="If life gives you bugs, make memes.jpg" width="500" />
 </h1>
 
 ---

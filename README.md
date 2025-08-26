@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=Miftahul-adib)](https://github.com/Miftahul-adib/github-profile-trophy)">
-    <img src="https://github-profile-trophy.vercel.app/?username=miftahul-adib&theme=onedark" alt="trophies" />
+
   </a>
 </p>
 

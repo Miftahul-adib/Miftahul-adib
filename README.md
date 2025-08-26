@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine Learning enthusiast</h3>
 
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Miftahul-adib)](https://github.com/Miftahul-adib)
+
 
 
 

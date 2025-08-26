@@ -63,7 +63,6 @@
 
 <h1 align="center">
   <img src="FB_IMG_1756095166870.jpg" width="500" />
-<img src="download.jpg" width="500" />
 </h1>
 
 download.jpg

@@ -9,7 +9,7 @@
 ---
 
 - 🌱 I’m currently learning **GenAI**
-- 🤝 I’m open to collaborating on **any kind of ML project**
+- 🤝 Open to collaborating on **Machine Learning projects**
 - 💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories)
 - ⚡ Fun fact: **I think I’m funny 😄**
 

@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miftahul Alam Adib</h1>
 <h3 align="center">A passionate Machine Learning enthusiast</h3>
-<h4 align="center"> Currently studying Statistics in SUST</h4>
 
 <p align="center">
-
-
-
-
 
   </a>
 </p>

@@ -61,10 +61,10 @@
 </p>
 
 
-<h4 align="center">
+<h3 align="center">
 
   If life gives you bugs, watch memes
-</h4>
+</h3>
 <h1 align="center">
   <img src="If life gives you bugs, make memes.jpg" width="500" />
 </h1>

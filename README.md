@@ -44,8 +44,6 @@
 </p>
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miftahul-adib&show_icons=true&theme=transparent)
-
 ---
 
 ### 📫 Connect With Me

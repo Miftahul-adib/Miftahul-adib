@@ -43,6 +43,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=miftahul-adib&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miftahul-adib&show_icons=true&theme=transparent)
+
 ---
 
 ### 📫 Connect With Me

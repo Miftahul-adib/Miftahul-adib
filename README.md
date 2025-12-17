@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine Learning enthusiast</h3>
 
 <!-- With color -->
-![Profile Views](https://komarev.com/ghpvc/?username=Miftahul-adib&color=blue)
+<h3 align="center">![Profile Views](https://komarev.com/ghpvc/?username=Miftahul-adib&color=blue)</h3>
 
 <p align="center">
 
@@ -11,7 +11,6 @@
 
 ---
 
-- 🌱 I’m currently engaged with **GenAI**
 - 🤝 Open to collaborating on **Machine Learning projects**
 - 💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories)
 - ⚡ Fun fact: **My machine learning model learns faster than I do😅**

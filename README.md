@@ -4,12 +4,6 @@
 <!-- With color -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Miftahul-adib&color=blue)
 
-<!-- Flat-square style with green color -->
-![Profile Views](https://komarev.com/ghpvc/?username=Miftahul-adib&color=brightgreen&style=flat-square)
-
-<!-- With custom label -->
-![Profile Views](https://komarev.com/ghpvc/?username=Miftahul-adib&label=PROFILE+VIEWS&color=blueviolet)
-
 <p align="center">
 
   </a>

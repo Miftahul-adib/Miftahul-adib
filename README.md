@@ -6,7 +6,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Miftahul-adib&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
----
 
 - 🤝 Open to collaborating on **Machine Learning projects**
 - 💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories)

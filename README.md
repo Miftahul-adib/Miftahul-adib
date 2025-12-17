@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Miftahul Alam Adib</h1>
 <h3 align="center">A passionate Machine Learning enthusiast</h3>
 
+<!-- With color -->
+![Profile Views](https://komarev.com/ghpvc/?username=Miftahul-adib&color=blue)
+
+<!-- Flat-square style with green color -->
+![Profile Views](https://komarev.com/ghpvc/?username=Miftahul-adib&color=brightgreen&style=flat-square)
+
+<!-- With custom label -->
+![Profile Views](https://komarev.com/ghpvc/?username=Miftahul-adib&label=PROFILE+VIEWS&color=blueviolet)
+
 <p align="center">
 
   </a>

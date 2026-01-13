@@ -9,7 +9,7 @@
 
 - 🤝 Open to collaborating on **Machine Learning projects**
 - 💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories)
-- ⚡ Fun fact: **My machine learning model learns faster than I do😅**
+- ⚡ Fun fact: **My ML model learns faster than I do😅**
 
 ---
 

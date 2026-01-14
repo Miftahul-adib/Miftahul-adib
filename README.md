@@ -106,8 +106,6 @@
 <div align="center">
   <h2 align="center">If life gives you bugs, watch memes 😅</h2>
   
-  
-  <br />
 
   <img src="If life gives you bugs, make memes.jpg" width="550" style="border: 2px solid #20BEFF; border-radius: 15px;" />
 </div>

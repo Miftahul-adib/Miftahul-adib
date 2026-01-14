@@ -78,11 +78,10 @@
       <br />
       <b>🛌 Sleep Disorder Prediction & Analysis</b>
       <br />
-      <i> Official github documentation of the paper "A Dual Pipeline Machine Learning Framework for Automated Multi-Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning"  </i>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Research-Paper-blue?style=flat-square&logo=google-scholar&logoColor=white" />
+     <p align="center"> <b>📖 Paper Documentation</b>
+
+
+<i>"A Dual Pipeline Machine Learning Framework for Automated Multi-Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning"</i> </p>
       <br /><br />
       <a href="https://github.com/Miftahul-adib/sleep-disorder">
         <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -100,11 +99,10 @@
       <br />
       <b>🏆 AIFication 4th Place Solution</b>
       <br />
-      <i>BackpropSust Competition - High Performance ML Model</i>
+      <i> Team name: BackpropSust </i>
       <br /><br />
       <img src="https://img.shields.io/badge/Competition-4th--Place-gold?style=flat-square&logo=target&logoColor=black" />
       <img src="https://img.shields.io/badge/Machine--Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Optimization-2D3F72?style=flat-square&logo=fastapi&logoColor=white" />
       <br /><br />
       <a href="https://github.com/Miftahul-adib/AIFication-4th-Place-Solution-BackpropSust">
         <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />

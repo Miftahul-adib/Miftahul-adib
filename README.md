@@ -52,18 +52,17 @@
 ### 📫 Connect With Me
 
 
-<p align="left">
+<p align="center">
   <a href="mailto:miftahuladib04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-121013?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&animation=pulse" height="50" style="margin: 10px;" />
   </a>
   <a href="https://www.kaggle.com/miftahuladib">
-    <img src="https://img.shields.io/badge/Kaggle-121013?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=kaggle&animation=pulse" height="50" style="margin: 10px;" />
   </a>
   <a href="https://www.linkedin.com/in/miftahul-alam-adib/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=pulse" height="50" style="margin: 10px;" />
   </a>
 </p>
-
 <h3 align="center">
 
   If life gives you bugs, watch memes

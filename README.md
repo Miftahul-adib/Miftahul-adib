@@ -50,8 +50,10 @@
 </div>
 
 
-<h1 align="center">📫 Connect With Me</h1>
-
+<h2 align="center">📫 Connect With Me</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" alt="Description of GIF">
+</p>
 
 <p align="center">
   <a href="mailto:miftahuladib04@gmail.com">

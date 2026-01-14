@@ -66,52 +66,41 @@
 </p>
 <h3 align="center">
 
-
-
 <h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <br />
-      <b>🛌 Sleep Disorder Prediction & Analysis</b>
-      <br />
-     <p align="center"> <b>📖 Paper Documentation</b>
-
-
-<i>"A Dual Pipeline Machine Learning Framework for Automated Multi-Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning"</i> </p>
-      <br /><br />
-      <a href="https://github.com/Miftahul-adib/sleep-disorder">
-        <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <br />
-      <b>🏆 AIFication 4th Place Solution</b>
-      <br />
-      <i> Team name: BackpropSust </i>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Competition-4th--Place-gold?style=flat-square&logo=target&logoColor=black" />
-      <img src="https://img.shields.io/badge/Machine--Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <br /><br />
-      <a href="https://github.com/Miftahul-adib/AIFication-4th-Place-Solution-BackpropSust">
-        <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br />
-    </td>
-  </tr>
-</table>
-
+  <table align="center">
+    <tr>
+      <td align="center" width="400" valign="top">
+        <br />
+        <b>🛌 Sleep Disorder Prediction & Analysis</b>
+        <br />
+        <p align="center"> <b>📖 Paper Documentation</b>
+        <br />
+        <i>"A Dual Pipeline Machine Learning Framework for Automated Multi-Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning"</i> </p>
+        <br />
+        <a href="https://github.com/Miftahul-adib/sleep-disorder">
+          <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br /><br />
+      </td>
+      <td align="center" width="400" valign="top">
+        <br />
+        <b>🏆 AIFication 4th Place Solution</b>
+        <br />
+        <i> Team name: BackpropSust </i>
+        <br /><br />
+        <img src="https://img.shields.io/badge/Competition-4th--Place-gold?style=flat-square&logo=target&logoColor=black" />
+        <img src="https://img.shields.io/badge/Machine--Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <br /><br />
+        <a href="https://github.com/Miftahul-adib/AIFication-4th-Place-Solution-BackpropSust">
+          <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br /><br />
+      </td>
+    </tr>
+  </table>
+</div>
 </div>
 
 <p align="center">---</p>

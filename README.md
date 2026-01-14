@@ -7,7 +7,12 @@
 
 </div>
 
-![Description of GIF](https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif)
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="100%"></td>
+    <td><img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" width="100%"></td>
+  </tr>
+</table>
 
 - 🤝 Open to collaborating on **Machine Learning projects**
 - 💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories)

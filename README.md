@@ -104,12 +104,9 @@
 </div>
 
 <div align="center">
-  <h2 align="center">✨ Welcome to my World ✨</h2>
+  <h2 align="center">If life gives you bugs, watch memes 😅</h2>
   
-  <p align="center">
-    <kbd><b>If life gives you bugs, watch memes 😅</b></kbd>
-  </p>
-
+  
   <br />
 
   <img src="If life gives you bugs, make memes.jpg" width="550" style="border: 2px solid #20BEFF; border-radius: 15px;" />

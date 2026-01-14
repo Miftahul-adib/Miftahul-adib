@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/Kaggle-121013?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/miftahul-alam-adib/">
-    <img src="https://img.shields.io/badge/LinkedIn-121013?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" />
   </a>
 </p>
 

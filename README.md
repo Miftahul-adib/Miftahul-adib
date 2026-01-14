@@ -12,9 +12,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" width="68%" />
 </p>
 
-- 🤝 Open to collaborating on **Machine Learning projects**
-- 💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories)
-- ⚡ Fun fact: **My ML model learns faster than I do😅**
+<div align="center">
+
+🤝 Open to collaborating on **Machine Learning projects** <br>
+💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories) <br>
+⚡ Fun fact: **My ML model learns faster than I do😅**
 
 ---
 
@@ -40,13 +42,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miftahul-adib&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=miftahul-adib&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miftahul-adib&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-
+</div>
 ---
 
 <h1 align="center">📫 Connect With Me</h1>

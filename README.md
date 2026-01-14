@@ -18,7 +18,7 @@
 💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories) <br>
 ⚡ Fun fact: **My ML model learns faster than I do😅**
 
----
+
 
 ### 💻 Tech Stack
 
@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -48,7 +48,7 @@
 </p>
 
 </div>
----
+
 
 <h1 align="center">📫 Connect With Me</h1>
 
@@ -72,7 +72,7 @@
   <img src="If life gives you bugs, make memes.jpg" width="500" />
 </h1>
 
----
+
 
 
 

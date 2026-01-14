@@ -66,6 +66,57 @@
 </p>
 <h3 align="center">
 
+
+
+<h3 align="center">🚀 Featured Projects</h3>
+
+<div align="center">
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <br />
+      <b>🛌 Sleep Disorder Prediction & Analysis</b>
+      <br />
+      <i>Research Paper Implementation & Comprehensive Data Analysis</i>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Research-Paper-blue?style=flat-square&logo=google-scholar&logoColor=white" />
+      <br /><br />
+      <a href="https://github.com/Miftahul-adib/sleep-disorder">
+        <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <br />
+      <b>🏆 AIFication 4th Place Solution</b>
+      <br />
+      <i>BackpropSust Competition - High Performance ML Model</i>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Competition-4th--Place-gold?style=flat-square&logo=target&logoColor=black" />
+      <img src="https://img.shields.io/badge/Machine--Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Optimization-2D3F72?style=flat-square&logo=fastapi&logoColor=white" />
+      <br /><br />
+      <a href="https://github.com/Miftahul-adib/AIFication-4th-Place-Solution-BackpropSust">
+        <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<p align="center">---</p>
   If life gives you bugs, watch memes
 </h3>
 <h1 align="center">

@@ -49,7 +49,7 @@
 
 ---
 
-### 📫 Connect With Me
+<h1 align="center">📫 Connect With Me</h1>
 
 
 <p align="center">

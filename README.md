@@ -103,13 +103,17 @@
 </div>
 </div>
 
-<p align="center">---</p>
-  If life gives you bugs, watch memes
-</h3>
-<h1 align="center">
-  <img src="If life gives you bugs, make memes.jpg" width="500" />
-</h1>
+<div align="center">
+  <h2 align="center">✨ Welcome to my World ✨</h2>
+  
+  <p align="center">
+    <kbd><b>If life gives you bugs, watch memes 😅</b></kbd>
+  </p>
 
+  <br />
+
+  <img src="If life gives you bugs, make memes.jpg" width="550" style="border: 2px solid #20BEFF; border-radius: 15px;" />
+</div>
 
 
 

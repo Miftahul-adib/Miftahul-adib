@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miftahul Alam Adib</h1>
+<h1 align="center"> I'm Miftahul Alam Adib</h1>
 <h3 align="center">A passionate Machine Learning enthusiast</h3>
 
 <div align="center">

@@ -78,7 +78,7 @@
       <br />
       <b>🛌 Sleep Disorder Prediction & Analysis</b>
       <br />
-      <i>Research Paper Implementation & Comprehensive Data Analysis</i>
+      <i> Official github documentation of the paper "A Dual Pipeline Machine Learning Framework for Automated Multi-Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning"  </i>
       <br /><br />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />

@@ -52,19 +52,15 @@
 ### 📫 Connect With Me
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="90%" alt="Description of GIF">
-</p>
-
 <p align="left">
   <a href="mailto:miftahuladib04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-121013?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/miftahuladib">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-121013?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/miftahul-alam-adib/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-121013?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 

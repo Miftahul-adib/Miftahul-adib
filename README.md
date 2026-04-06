@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Miftahul Alam Adib</h1>
-<h3 align="center">A passionate Machine Learning enthusiast</h3>
+<h3 align="center">I am easy to read unlike my code :)</h3>
 
 <div align="center">
   

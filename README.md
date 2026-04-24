@@ -116,9 +116,7 @@
       <b>📖 IJABC 2026 Paper Implementation</b><br>
       <i>A Coverage Preserving Ensemble Framework with Minority Recovery for Robust Indoor Localization</i>
       <br><br>
-      <img src="https://img.shields.io/badge/BLE_Localization-blue?style=flat-square">
-      <img src="https://img.shields.io/badge/Coverage-100%25-brightgreen?style=flat-square">
-      <img src="https://img.shields.io/badge/Minority_Recovery-orange?style=flat-square">
+      <img src="https://img.shields.io/badge/IJABC-2026-blue?style=flat-square">
       <br><br>
       <a href="https://github.com/Miftahul-adib/Coverage-preserving-localization">
         <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -127,7 +125,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="400" valign="top">
+    <td align="center" valign="top" colspan="2">
       <br>
       <b>🏆 AIFication 4th Place Solution</b>
       <br><br>
@@ -138,20 +136,6 @@
       <br><br>
       <a href="https://github.com/Miftahul-adib/AIFication-4th-Place-Solution-BackpropSust">
         <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-      <br><br>
-    </td>
-    <td align="center" width="400" valign="top">
-      <br>
-      <b>📂 More Projects</b>
-      <br><br>
-      Explore more machine learning, data science, and research based repositories.
-      <br><br>
-      <img src="https://img.shields.io/badge/GitHub-Repositories-black?style=flat-square&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/Research-Projects-purple?style=flat-square">
-      <br><br>
-      <a href="https://github.com/Miftahul-adib?tab=repositories">
-        <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
       <br><br>
     </td>

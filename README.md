@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Miftahul Alam Adib</h1>
-<h6 align="center">I'm easy to read unlike my code :)</h3>
+<h6 align="center">I'm easy to read unlike my code :)</h6>
 
 <div align="center">
   
@@ -8,7 +8,6 @@
 </div>
 
 <p align="center">
-  
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="78%" />
 </p>
 
@@ -48,10 +47,12 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</div>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
 
 <h2 align="center">📫 Connect With Me</h2>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" alt="Description of GIF">
 </p>
@@ -67,7 +68,6 @@
     <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=pulse" height="50" style="margin: 10px;" />
   </a>
 </p>
-<h3 align="center">
 
 <h3 align="center">🚀 Featured Projects</h3>
 
@@ -100,9 +100,9 @@
           <i>"A Coverage Preserving Ensemble Framework with Minority Recovery for Robust Indoor Localization"</i>
         </p>
         <br />
-        <img src="https://img.shields.io/badge/BLE-Indoor--Localization-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/BLE-Indoor_Localization-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Coverage-100%25-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Minority--Recovery-ML-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Minority_Recovery-ML-orange?style=flat-square" />
         <br /><br />
         <a href="https://github.com/Miftahul-adib/Coverage-preserving-localization">
           <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -118,11 +118,25 @@
         <br />
         <i>Team name: BackpropSust</i>
         <br /><br />
-        <img src="https://img.shields.io/badge/Competition-4th--Place-gold?style=flat-square&logo=target&logoColor=black" />
-        <img src="https://img.shields.io/badge/Machine--Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Competition-4th_Place-gold?style=flat-square&logo=target&logoColor=black" />
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
         <br /><br />
         <a href="https://github.com/Miftahul-adib/AIFication-4th-Place-Solution-BackpropSust">
           <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br /><br />
+      </td>
+
+      <td align="center" width="400" valign="top">
+        <br />
+        <b>📂 More Projects</b>
+        <br />
+        <p align="center">
+          Explore more machine learning, data science, and research based repositories.
+        </p>
+        <br />
+        <a href="https://github.com/Miftahul-adib?tab=repositories">
+          <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br /><br />
       </td>
@@ -132,11 +146,8 @@
 
 <div align="center">
   <h2 align="center">If life gives you bugs, watch memes 😅</h2>
-  
-
   <img src="If life gives you bugs, make memes.jpg" width="550" style="border: 2px solid #20BEFF; border-radius: 15px;" />
 </div>
-
 
 
 

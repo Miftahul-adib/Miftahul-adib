@@ -17,13 +17,21 @@
 💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories) <br>
 ⚡ Fun fact: **My ML model learns faster than I do😅**
 
-### 💻 Tech Stack
+</div>
+
+<br>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<div align="center">
 
 **Programming Languages**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+<br>
 
 **Machine Learning**<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -33,14 +41,20 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-6A1B9A?style=for-the-badge&logo=Optuna&logoColor=white)
 
+<br>
+
 **Databases**<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_Database-blue?style=for-the-badge)
+
+<br>
 
 **Data Visualization**<br>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2D3F72?style=for-the-badge&logo=Seaborn&logoColor=white)
+
+<br>
 
 **Web & DevOps**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -51,100 +65,123 @@
 
 </div>
 
+<br>
+
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" alt="Description of GIF">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" alt="Coding GIF">
 </p>
 
 <p align="center">
   <a href="mailto:miftahuladib04@gmail.com">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&animation=pulse" height="50" style="margin: 10px;" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&animation=pulse" height="50" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.kaggle.com/miftahuladib">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=kaggle&animation=pulse" height="50" style="margin: 10px;" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=kaggle&animation=pulse" height="50" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/miftahul-alam-adib/">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=pulse" height="50" style="margin: 10px;" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=pulse" height="50" />
   </a>
 </p>
+
+<br>
+
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="400" valign="top">
+<table align="center">
+  <tr>
+    <td align="center" width="400" valign="top">
+      <br>
+      <b>🛌 Sleep Disorder Prediction & Analysis</b>
+      <br><br>
+      <p align="center">
+        <b>📖 Paper Documentation</b>
         <br>
-        <b>🛌 Sleep Disorder Prediction & Analysis</b>
-        <br><br>
-        <p align="center">
-          <b>📖 Paper Documentation</b>
-          <br>
-          <i>A Dual Pipeline Machine Learning Framework for Automated Multi Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning</i>
-        </p>
-        <br>
-        <a href="https://github.com/Miftahul-adib/sleep-disorder">
-          <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <br><br>
-      </td>
+        <i>A Dual Pipeline Machine Learning Framework for Automated Multi Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning</i>
+      </p>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+        <img src="https://img.shields.io/badge/Healthcare-blue?style=flat-square">
+        <img src="https://img.shields.io/badge/Ensemble_Learning-green?style=flat-square">
+      </p>
+      <br>
+      <a href="https://github.com/Miftahul-adib/sleep-disorder">
+        <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <br><br>
+    </td>
 
-      <td align="center" width="400" valign="top">
+    <td align="center" width="400" valign="top">
+      <br>
+      <b>📡 Coverage Preserving Localization</b>
+      <br><br>
+      <p align="center">
+        <b>📖 IJABC 2026 Paper Implementation</b>
         <br>
-        <b>📡 Coverage Preserving Localization</b>
-        <br><br>
-        <p align="center">
-          <b>📖 IJABC 2026 Paper Implementation</b>
-          <br>
-          <i>A Coverage Preserving Ensemble Framework with Minority Recovery for Robust Indoor Localization</i>
-        </p>
-        <br>
+        <i>A Coverage Preserving Ensemble Framework with Minority Recovery for Robust Indoor Localization</i>
+      </p>
+      <br>
+      <p align="center">
         <img src="https://img.shields.io/badge/BLE_Localization-blue?style=flat-square">
         <img src="https://img.shields.io/badge/Coverage-100%25-brightgreen?style=flat-square">
         <img src="https://img.shields.io/badge/Minority_Recovery-orange?style=flat-square">
-        <br><br>
-        <a href="https://github.com/Miftahul-adib/Coverage-preserving-localization">
-          <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <br><br>
-      </td>
-    </tr>
+      </p>
+      <br>
+      <a href="https://github.com/Miftahul-adib/Coverage-preserving-localization">
+        <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <br><br>
+    </td>
+  </tr>
 
-    <tr>
-      <td align="center" width="400" valign="top">
-        <br>
-        <b>🏆 AIFication 4th Place Solution</b>
-        <br><br>
-        <p align="center">
-          <i>Team name: BackpropSust</i>
-        </p>
-        <br>
+  <tr>
+    <td align="center" width="400" valign="top">
+      <br>
+      <b>🏆 AIFication 4th Place Solution</b>
+      <br><br>
+      <p align="center">
+        <i>Team name: BackpropSust</i>
+      </p>
+      <br>
+      <p align="center">
         <img src="https://img.shields.io/badge/Competition-4th_Place-gold?style=flat-square&logo=target&logoColor=black">
         <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-        <br><br>
-        <a href="https://github.com/Miftahul-adib/AIFication-4th-Place-Solution-BackpropSust">
-          <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <br><br>
-      </td>
+      </p>
+      <br>
+      <a href="https://github.com/Miftahul-adib/AIFication-4th-Place-Solution-BackpropSust">
+        <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <br><br>
+    </td>
 
-      <td align="center" width="400" valign="top">
-        <br>
-        <b>📂 More Projects</b>
-        <br><br>
-        <p align="center">
-          Explore more machine learning, data science, and research based repositories.
-        </p>
-        <br>
-        <a href="https://github.com/Miftahul-adib?tab=repositories">
-          <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <br><br>
-      </td>
-    </tr>
-  </table>
-</div>
+    <td align="center" width="400" valign="top">
+      <br>
+      <b>📂 More Projects</b>
+      <br><br>
+      <p align="center">
+        Explore more machine learning, data science, and research based repositories.
+      </p>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/GitHub-Repositories-black?style=flat-square&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Research-Projects-purple?style=flat-square">
+      </p>
+      <br>
+      <a href="https://github.com/Miftahul-adib?tab=repositories">
+        <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
   <h2 align="center">If life gives you bugs, watch memes 😅</h2>
-  <img src="If life gives you bugs, make memes.jpg" width="550" style="border: 2px solid #20BEFF; border-radius: 15px;" />
+  <img src="If life gives you bugs, make memes.jpg" width="550" alt="Bug meme">
 </div>

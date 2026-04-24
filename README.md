@@ -72,24 +72,8 @@
 <h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
-  <table align="center">
+  <table>
     <tr>
-      <td align="center" width="400" valign="top">
-        <br />
-        <b>🛌 Sleep Disorder Prediction & Analysis</b>
-        <br />
-        <p align="center">
-          <b>📖 Paper Documentation</b>
-          <br />
-          <i>"A Dual Pipeline Machine Learning Framework for Automated Multi-Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning"</i>
-        </p>
-        <br />
-        <a href="https://github.com/Miftahul-adib/sleep-disorder">
-          <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <br /><br />
-      </td>
-
       <td align="center" width="400" valign="top">
         <br />
         <b>📡 Coverage Preserving Localization</b>
@@ -110,40 +94,8 @@
         <br /><br />
       </td>
     </tr>
-
-    <tr>
-      <td align="center" width="400" valign="top">
-        <br />
-        <b>🏆 AIFication 4th Place Solution</b>
-        <br />
-        <i>Team name: BackpropSust</i>
-        <br /><br />
-        <img src="https://img.shields.io/badge/Competition-4th_Place-gold?style=flat-square&logo=target&logoColor=black" />
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <br /><br />
-        <a href="https://github.com/Miftahul-adib/AIFication-4th-Place-Solution-BackpropSust">
-          <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <br /><br />
-      </td>
-
-      <td align="center" width="400" valign="top">
-        <br />
-        <b>📂 More Projects</b>
-        <br />
-        <p align="center">
-          Explore more machine learning, data science, and research based repositories.
-        </p>
-        <br />
-        <a href="https://github.com/Miftahul-adib?tab=repositories">
-          <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <br /><br />
-      </td>
-    </tr>
   </table>
 </div>
-
 <div align="center">
   <h2 align="center">If life gives you bugs, watch memes 😅</h2>
   <img src="If life gives you bugs, make memes.jpg" width="550" style="border: 2px solid #20BEFF; border-radius: 15px;" />

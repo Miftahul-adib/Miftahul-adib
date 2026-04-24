@@ -78,20 +78,45 @@
         <br />
         <b>🛌 Sleep Disorder Prediction & Analysis</b>
         <br />
-        <p align="center"> <b>📖 Paper Documentation</b>
-        <br />
-        <i>"A Dual Pipeline Machine Learning Framework for Automated Multi-Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning"</i> </p>
+        <p align="center">
+          <b>📖 Paper Documentation</b>
+          <br />
+          <i>"A Dual Pipeline Machine Learning Framework for Automated Multi-Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning"</i>
+        </p>
         <br />
         <a href="https://github.com/Miftahul-adib/sleep-disorder">
           <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br /><br />
       </td>
+
+      <td align="center" width="400" valign="top">
+        <br />
+        <b>📡 Coverage Preserving Localization</b>
+        <br />
+        <p align="center">
+          <b>📖 IJABC 2026 Paper Implementation</b>
+          <br />
+          <i>"A Coverage Preserving Ensemble Framework with Minority Recovery for Robust Indoor Localization"</i>
+        </p>
+        <br />
+        <img src="https://img.shields.io/badge/BLE-Indoor--Localization-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Coverage-100%25-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Minority--Recovery-ML-orange?style=flat-square" />
+        <br /><br />
+        <a href="https://github.com/Miftahul-adib/Coverage-preserving-localization">
+          <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br /><br />
+      </td>
+    </tr>
+
+    <tr>
       <td align="center" width="400" valign="top">
         <br />
         <b>🏆 AIFication 4th Place Solution</b>
         <br />
-        <i> Team name: BackpropSust </i>
+        <i>Team name: BackpropSust</i>
         <br /><br />
         <img src="https://img.shields.io/badge/Competition-4th--Place-gold?style=flat-square&logo=target&logoColor=black" />
         <img src="https://img.shields.io/badge/Machine--Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -103,7 +128,6 @@
       </td>
     </tr>
   </table>
-</div>
 </div>
 
 <div align="center">

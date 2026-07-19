@@ -198,7 +198,7 @@
       <br><br>
       <i>AI-Powered Research Matchmaking Platform — semantic search enabling students to discover faculty and PhD researchers at SUST using natural language queries (611+ faculty profiles indexed)</i>
       <br><br>
-      <a href="https://findyoursupervisor.streamlit.app/">
+      <a href="https://faculty-finder-phi.vercel.app/">
         <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
       </a>
       &nbsp;

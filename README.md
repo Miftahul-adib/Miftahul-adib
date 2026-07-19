@@ -148,7 +148,7 @@
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
       &nbsp;
-      <a href="https://doi.org/10.62247/IJABC.2026.2642">
+      <a href="https://www.jstage.jst.go.jp/article/ijabc/2026/2/2026_160/_article">
         <img src="https://img.shields.io/badge/Paper-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
       </a>
       <br><br>

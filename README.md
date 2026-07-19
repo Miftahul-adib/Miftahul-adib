@@ -120,11 +120,6 @@
       <br><br>
       <i>A Dual Pipeline Machine Learning Framework for Automated Multi-Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning</i>
       <br><br>
-      <img src="https://img.shields.io/badge/Status-Under_Review-orange?style=flat-square">
-      <img src="https://img.shields.io/badge/Accuracy-98.67%25-brightgreen?style=flat-square">
-      <img src="https://img.shields.io/badge/Ensemble_Learning-green?style=flat-square">
-      <img src="https://img.shields.io/badge/Healthcare-blue?style=flat-square">
-      <br><br>
       <a href="https://github.com/Miftahul-adib/sleep-disorder">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
@@ -139,10 +134,6 @@
       <b>📡 Coverage Preserving Indoor Localization</b>
       <br><br>
       <i>A Coverage Preserving Ensemble Framework with Minority Recovery for Robust Indoor Localization</i>
-      <br><br>
-      <img src="https://img.shields.io/badge/Published-IJABC_2026-blue?style=flat-square">
-      <img src="https://img.shields.io/badge/Conference-ABC_2026-purple?style=flat-square">
-      <img src="https://img.shields.io/badge/BLE_Based-IoT-teal?style=flat-square">
       <br><br>
       <a href="https://github.com/Miftahul-adib/Coverage-preserving-localization">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -170,10 +161,6 @@
       <br><br>
       <i>Bangla dialect speech recognition using a dual-stage fine-tuning pipeline with Whisper Medium and LoRA</i>
       <br><br>
-      <img src="https://img.shields.io/badge/Competition-4th_Place-gold?style=flat-square">
-      <img src="https://img.shields.io/badge/60+_Teams-red?style=flat-square">
-      <img src="https://img.shields.io/badge/Hosted_by-CUET_ETE-blue?style=flat-square">
-      <br><br>
       <i>Team: BackpropSust</i>
       <br><br>
       <a href="https://github.com/Miftahul-adib/AIFication-4th-Place-Solution-BackpropSust">
@@ -186,11 +173,6 @@
       <b>🚗 DUET AI Hackathon — RoadVision</b>
       <br><br>
       <i>YOLOv8-based multi-class vehicle detection pipeline for Bangladesh highway CCTV footage — Top 15 Finalist out of 101 teams</i>
-      <br><br>
-      <img src="https://img.shields.io/badge/Top_15_Finalist-silver?style=flat-square">
-      <img src="https://img.shields.io/badge/101_Teams-red?style=flat-square">
-      <img src="https://img.shields.io/badge/Hosted_by-DUET_CSE-blue?style=flat-square">
-      <img src="https://img.shields.io/badge/Sponsored_by-ICT_Division_BD-green?style=flat-square">
       <br><br>
       <i>Team: BackpropSust</i>
       <br><br>
@@ -215,12 +197,6 @@
       <b>🎓 ScholarLink — Faculty Finder</b>
       <br><br>
       <i>AI-Powered Research Matchmaking Platform — semantic search enabling students to discover faculty and PhD researchers at SUST using natural language queries (611+ faculty profiles indexed)</i>
-      <br><br>
-      <img src="https://img.shields.io/badge/Full_Stack-React_+_FastAPI-blue?style=flat-square">
-      <img src="https://img.shields.io/badge/LLM-DeepSeek-purple?style=flat-square">
-      <img src="https://img.shields.io/badge/Embeddings-HuggingFace-yellow?style=flat-square">
-      <img src="https://img.shields.io/badge/DB-MySQL-orange?style=flat-square">
-      <img src="https://img.shields.io/badge/Deployed-Docker_+_Railway-2496ED?style=flat-square">
       <br><br>
       <a href="https://findyoursupervisor.streamlit.app/">
         <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">

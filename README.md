@@ -129,7 +129,7 @@
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
       &nbsp;
-      <a href="https://arxiv.org/abs/2502.05955">
+      <a href="https://arxiv.org/abs/2601.05814">
         <img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white">
       </a>
       <br><br>

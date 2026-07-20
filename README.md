@@ -2,12 +2,17 @@
 <h6 align="center">I'm easy to read unlike my code :)</h6>
 
 <div align="center">
-  
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Miftahul-adib&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-blue?style=for-the-badge&logo=githubpages&logoColor=white)](https://miftahul-adib.github.io/my-portfolio/)
+
+<p align="center">
+  <a href="https://miftahul-adib.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="78%" />
 </p>

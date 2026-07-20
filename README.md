@@ -2,7 +2,7 @@
 <h6 align="center">I'm easy to read unlike my code :)</h6>
 
 <div align="center">
-  
+![Portfolio](https://miftahul-adib.github.io/my-portfolio/) 
 ![Profile Views](https://komarev.com/ghpvc/?username=Miftahul-adib&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
 </div>

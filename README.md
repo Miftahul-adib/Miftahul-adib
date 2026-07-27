@@ -7,21 +7,19 @@
 
 <p align="center">
   <a href="https://miftahul-adib.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="78%" />
 </p>
 
 <div align="center">
-  🔭 Currently working as a **Research Associate** at **Research Den** (Remote, US)<br>
-  🤝 Open to collaborating on **Machine Learning projects**<br>
-  💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories)<br>
-  ⚡ Fun fact: **My ML model learns faster than I do 😅**
+  🔭 Currently working as a <b>Research Associate</b> at <b>Research Den</b> (Remote, US)<br>
+  🤝 Open to collaborating on <b>Machine Learning projects</b><br>
+  💻 Most of my work is available on my <a href="https://github.com/Miftahul-adib?tab=repositories">GitHub Repositories</a><br>
+  ⚡ Fun fact: <b>My ML model learns faster than I do 😅</b>
 </div>
-
 <br>
 
 ---

@@ -19,7 +19,7 @@
 
 <div align="center">
 
-🔭 Currently working as a **Research Associate** at **Research Den** (Remote, US) <br>
+🔭 Currently contributing as a **Research Associate** at **Research Den** (Remote) <br>
 🤝 Open to collaborating on **Machine Learning projects** <br>
 💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories) <br>
 ⚡ Fun fact: **My ML model learns faster than I do😅**

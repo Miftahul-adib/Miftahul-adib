@@ -2,9 +2,7 @@
 <h6 align="center">I'm easy to read unlike my code :)</h6>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Miftahul-adib&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
-
+  <img src="https://komarev.com/ghpvc/?username=Miftahul-adib&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 
 <p align="center">
@@ -18,18 +16,43 @@
 </p>
 
 <div align="center">
-
-🔭 Currently contributing as a **Research Associate** at **Research Den** (Remote) <br>
-🤝 Open to collaborating on **Machine Learning projects** <br>
-💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories) <br>
-⚡ Fun fact: **My ML model learns faster than I do😅**
-
+  🔭 Currently working as a **Research Associate** at **Research Den** (Remote, US)<br>
+  🤝 Open to collaborating on **Machine Learning projects**<br>
+  💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories)<br>
+  ⚡ Fun fact: **My ML model learns faster than I do 😅**
 </div>
 
 <br>
 
+---
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<div align="center">
+  <a href="mailto:miftahuladib04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/miftahuladib">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/miftahul-alam-adib/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&user=3UH7xHsAAAAJ&view_op=list_works">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+---
+
 <h2 align="center">💻 Tech Stack</h2>
 
+<!-- Keep your existing Tech Stack exactly as you had it – I'm not changing that -->
 <div align="center">
 
 **Programming Languages**<br>
@@ -93,36 +116,6 @@
 
 <br>
 
-<h2 align="center">📫 Connect With Me</h2>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" alt="Coding GIF">
-</div>
-
-<p align="center">
-  <a href="mailto:miftahuladib04@gmail.com">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&animation=pulse" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/miftahuladib">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=kaggle&animation=pulse" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/miftahul-alam-adib/">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=pulse" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?hl=en&user=3UH7xHsAAAAJ&view_op=list_works">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" height="50" />
-  </a>
-</p>
-
-<p align="center">
-  📧 <strong>miftahuladib04@gmail.com</strong>
-</p>
-
-<br>
-
 ---
 
 <h2 align="center">📄 Research Works</h2>
@@ -168,6 +161,7 @@
 
 <h2 align="center">🏆 Competitions</h2>
 
+<!-- Row 1: AIFication and RoadVision -->
 <table align="center">
   <tr>
     <td align="center" width="400" valign="top">
@@ -197,8 +191,12 @@
       <br><br>
     </td>
   </tr>
+</table>
+
+<!-- Row 2: PoliMemeDecode and Infinity AI Buildfest -->
+<table align="center">
   <tr>
-    <td align="center" colspan="2" valign="top">
+    <td align="center" width="400" valign="top">
       <br>
       <b>🗳️ PoliMemeDecode — National Datathon</b>
       <br><br>
@@ -211,9 +209,7 @@
       </a>
       <br><br>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" valign="top">
+    <td align="center" width="400" valign="top">
       <br>
       <b>🏥 Infinity AI Buildfest</b>
       <br><br>
@@ -221,6 +217,7 @@
       <br><br>
       <i>Hosted by: BRAC University</i>
       <br><br>
+      <!-- No View Solution button -->
     </td>
   </tr>
 </table>
@@ -229,11 +226,12 @@
 
 ---
 
-<h2 align="center">🔨 Self Projects</h2>
+<h2 align="center">📌 Projects</h2>
 
+<!-- ScholarLink as a full-width dedicated section -->
 <table align="center">
   <tr>
-    <td align="center" width="600" valign="top">
+    <td align="center" width="800" valign="top">
       <br>
       <b>🎓 ScholarLink — Faculty Finder</b>
       <br><br>
@@ -249,8 +247,18 @@
       <br><br>
     </td>
   </tr>
+</table>
+
+<br>
+
+---
+
+<h2 align="center">🔨 Self Projects</h2>
+
+<!-- Three self-projects side by side -->
+<table align="center">
   <tr>
-    <td align="center" width="600" valign="top">
+    <td align="center" width="260" valign="top">
       <br>
       <b>📊 YouTube Data Analysis</b>
       <br><br>
@@ -261,11 +269,9 @@
       </a>
       <br><br>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="600" valign="top">
+    <td align="center" width="260" valign="top">
       <br>
-      <b>🔍 Retrieval-Augmented QA System</b>
+      <b>🔍 Retrieval-Augmented QA</b>
       <br><br>
       <i>RAG pipeline with FAISS vector search and TAPAS for tabular question answering</i>
       <br><br>
@@ -274,9 +280,7 @@
       </a>
       <br><br>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="600" valign="top">
+    <td align="center" width="260" valign="top">
       <br>
       <b>🚗 Roadside Object Detection</b>
       <br><br>
@@ -295,6 +299,6 @@
 ---
 
 <div align="center">
-  <h2 align="center">If life gives you bugs, watch memes 😅</h2>
+  <h2>If life gives you bugs, watch memes 😅</h2>
   <img src="If life gives you bugs, make memes.jpg" width="550" alt="Bug meme">
 </div>

@@ -52,7 +52,6 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<!-- Keep your existing Tech Stack exactly as you had it – I'm not changing that -->
 <div align="center">
 
 **Programming Languages**<br>
@@ -161,7 +160,6 @@
 
 <h2 align="center">🏆 Competitions</h2>
 
-<!-- Row 1: AIFication and RoadVision -->
 <table align="center">
   <tr>
     <td align="center" width="400" valign="top">
@@ -193,7 +191,6 @@
   </tr>
 </table>
 
-<!-- Row 2: PoliMemeDecode and Infinity AI Buildfest -->
 <table align="center">
   <tr>
     <td align="center" width="400" valign="top">
@@ -217,7 +214,6 @@
       <br><br>
       <i>Hosted by: BRAC University</i>
       <br><br>
-      <!-- No View Solution button -->
     </td>
   </tr>
 </table>
@@ -228,7 +224,6 @@
 
 <h2 align="center">📌 Projects</h2>
 
-<!-- ScholarLink as a full-width dedicated section -->
 <table align="center">
   <tr>
     <td align="center" width="800" valign="top">
@@ -255,7 +250,6 @@
 
 <h2 align="center">🔨 Self Projects</h2>
 
-<!-- Three self-projects side by side -->
 <table align="center">
   <tr>
     <td align="center" width="260" valign="top">
@@ -300,5 +294,5 @@
 
 <div align="center">
   <h2>If life gives you bugs, watch memes 😅</h2>
-  <img src="If life gives you bugs, make memes.jpg" width="550" alt="Bug meme">
+  <img src="If%20life%20gives%20you%20bugs%2C%20make%20memes.jpg" width="550" alt="Bug meme">
 </div>

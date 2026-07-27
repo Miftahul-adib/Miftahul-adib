@@ -202,13 +202,24 @@
       <br>
       <b>🗳️ PoliMemeDecode — National Datathon</b>
       <br><br>
-      <i>Political meme classification using a dual-encoder setup (DeBERTa-v3 + RoBERTa) with YOLO logo detection and InsightFace — Kaggle private leaderboard Rank 20 out of 151 teams</i>
+      <i>Political meme classification using a dual-encoder setup (DeBERTa-v3 + RoBERTa) with YOLO logo detection and InsightFace — Rank 20 out of 151 teams</i>
       <br><br>
       <i>Team: BackpropSust</i>
       <br><br>
       <a href="https://github.com/Miftahul-adib/PoliMemeDecode">
         <img src="https://img.shields.io/badge/View_Solution-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <br>
+      <b>🏥 Infinity AI Buildfest</b>
+      <br><br>
+      <i>Built SkinAI — a platform connecting rural patients in Bangladesh with nearby doctors while providing an initial prediction of likely skin conditions. Selected for both the preliminary and final round at BRAC University, Dhaka (Healthcare track).</i>
+      <br><br>
+      <i>Hosted by: BRAC University</i>
       <br><br>
     </td>
   </tr>
@@ -233,6 +244,45 @@
       </a>
       &nbsp;
       <a href="https://github.com/Miftahul-adib/Faculty-finder">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="600" valign="top">
+      <br>
+      <b>📊 YouTube Data Analysis</b>
+      <br><br>
+      <i>Exploratory analysis of top 100 YouTube channels using Python (Pandas, Matplotlib, Seaborn)</i>
+      <br><br>
+      <a href="https://github.com/Miftahul-adib/Youtube-data-analysis">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="600" valign="top">
+      <br>
+      <b>🔍 Retrieval-Augmented QA System</b>
+      <br><br>
+      <i>RAG pipeline with FAISS vector search and TAPAS for tabular question answering</i>
+      <br><br>
+      <a href="https://github.com/Miftahul-adib/Retrieval-Augmented-QA-System">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="600" valign="top">
+      <br>
+      <b>🚗 Roadside Object Detection</b>
+      <br><br>
+      <i>Real-time object detection using YOLOv11n with custom training pipeline</i>
+      <br><br>
+      <a href="https://github.com/Miftahul-adib/Roadside-object-detection">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
       <br><br>

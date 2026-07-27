@@ -19,6 +19,7 @@
 
 <div align="center">
 
+🔭 Currently working as a **Research Associate** at **Research Den** (Remote, US) <br>
 🤝 Open to collaborating on **Machine Learning projects** <br>
 💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories) <br>
 ⚡ Fun fact: **My ML model learns faster than I do😅**
@@ -110,6 +111,14 @@
   <a href="https://www.linkedin.com/in/miftahul-alam-adib/">
     <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=pulse" height="50" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&user=3UH7xHsAAAAJ&view_op=list_works">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" height="50" />
+  </a>
+</p>
+
+<p align="center">
+  📧 <strong>miftahuladib04@gmail.com</strong>
 </p>
 
 <br>
@@ -183,6 +192,21 @@
       <i>Team: BackpropSust</i>
       <br><br>
       <a href="https://github.com/Miftahul-adib/Duet-AI-Hackathon-solution">
+        <img src="https://img.shields.io/badge/View_Solution-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <br>
+      <b>🗳️ PoliMemeDecode — National Datathon</b>
+      <br><br>
+      <i>Political meme classification using a dual-encoder setup (DeBERTa-v3 + RoBERTa) with YOLO logo detection and InsightFace — Rank 20 out of 151 teams</i>
+      <br><br>
+      <i>Team: BackpropSust</i>
+      <br><br>
+      <a href="https://github.com/Miftahul-adib/PoliMemeDecode">
         <img src="https://img.shields.io/badge/View_Solution-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
       <br><br>

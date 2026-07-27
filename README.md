@@ -202,7 +202,7 @@
       <br>
       <b>🗳️ PoliMemeDecode — National Datathon</b>
       <br><br>
-      <i>Political meme classification using a dual-encoder setup (DeBERTa-v3 + RoBERTa) with YOLO logo detection and InsightFace — Rank 20 out of 151 teams</i>
+      <i>Political meme classification using a dual-encoder setup (DeBERTa-v3 + RoBERTa) with YOLO logo detection and InsightFace — Kaggle private leaderboard Rank 20 out of 151 teams</i>
       <br><br>
       <i>Team: BackpropSust</i>
       <br><br>

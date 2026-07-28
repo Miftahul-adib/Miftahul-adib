@@ -180,7 +180,7 @@
     </td>
     <td align="center" width="400" valign="top">
       <br>
-      <b>🚗 DUET AI Hackathon — RoadVision</b>
+      <b>🚗 DUET AI Hackathon — RoadVision: Top 15 </b>
       <br><br>
       <i>YOLOv8-based multi-class vehicle detection pipeline for Bangladesh highway CCTV footage — Top 15 Finalist out of 101 teams</i>
       <br><br>
@@ -211,7 +211,7 @@
     </td>
     <td align="center" width="400" valign="top">
       <br>
-      <b>🏥 Infinity AI Buildfest</b>
+      <b>🏥 Infinity AI Buildfest: Final round</b>
       <br><br>
       <i>Built SkinAI — a platform connecting rural patients in Bangladesh with nearby doctors while providing an initial prediction of likely skin conditions. Selected for both the preliminary and final round at BRAC University, Dhaka (Healthcare track).</i>
       <br><br>

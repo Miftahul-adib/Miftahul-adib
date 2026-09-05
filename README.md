@@ -159,8 +159,6 @@
 
 <br>
 
----
-
 <h2 align="center">🏆 Competitions</h2>
 
 <table align="center">
@@ -217,6 +215,26 @@
       <br><br>
       <i>Hosted by: BRAC University</i>
       <br><br>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="400" valign="top">
+      <br>
+      <b>📝 Build With Gemma @Bangladesh 2026 — 4th Place (Online Track)</b>
+      <br><br>
+      <i>Khata (খাতা) — a Gemma-powered pipeline that transforms whiteboard photos into structured board-exam practice</i>
+      <br><br>
+      <i>Team: BackpropSust | Hosted by Kaggle, Sponsored by Google DeepMind</i>
+      <br><br>
+      <a href="https://www.kaggle.com/competitions/build-with-gemma-bangladesh/writeups/new-writeup-1785044974927">
+        <img src="https://img.shields.io/badge/View_Writeup-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+      </a>
+      <br><br>
+    </td>
+    <td align="center" width="400" valign="top">
     </td>
   </tr>
 </table>

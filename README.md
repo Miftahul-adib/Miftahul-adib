@@ -157,6 +157,29 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center" width="400" valign="top">
+      <br>
+      <b>🫁 CKD Explainable AI</b>
+      <br><br>
+      <i>Explainable Machine Learning for Chronic Kidney Disease Classification from Routine Urinalysis and Diabetes Records</i>
+      <br><br>
+      <a href="https://github.com/Munfa/CKD-Explainable-AI">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      &nbsp;
+      <a href="https://www.researchsquare.com/article/rs-10968179/v1">
+        <img src="https://img.shields.io/badge/Preprint-B31B1B?style=for-the-badge&logo=researchsquare&logoColor=white">
+      </a>
+      <br><br>
+    </td>
+    <td align="center" width="400" valign="top">
+      <!-- Leave empty or add another entry later -->
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <h2 align="center">🏆 Competitions</h2>

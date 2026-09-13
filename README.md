@@ -288,11 +288,32 @@
   </tr>
 </table>
 
-<br>
-
----
-
-<h2 align="center">🔨 Self Projects</h2>
+<table align="center">
+  <tr>
+    <td align="center" width="400" valign="top">
+      <br>
+      <b>🧠 Bengali LLM Hallucination Detection Challenge</b>
+      <br><br>
+      <i>Bengali LLM hallucination detection challenge solution for identifying unsupported or fabricated model outputs.</i>
+      <br><br>
+      <a href="https://github.com/Miftahul-adib/Bengali-LLM-Hallucination-Detection-Challenge">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <br><br>
+    </td>
+    <td align="center" width="400" valign="top">
+      <br>
+      <b>🎙️ Bengali Long-Form Speech Recognition & Speaker Diarization</b>
+      <br><br>
+      <i>Long-form Bengali speech recognition and speaker diarization pipeline for multi-speaker audio.</i>
+      <br><br>
+      <a href="https://github.com/Miftahul-adib/Bengali-Long-Form-Speech-Recognition-Speaker-Diarization">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>

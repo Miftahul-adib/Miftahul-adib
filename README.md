@@ -40,24 +40,24 @@
 
 
 > [!NOTE]
-> ### **🤖 ML & Deep Learning**
+> ## **🤖 ML & Deep Learning**
 > PyTorch · TensorFlow · Scikit-learn · OpenCV · HuggingFace · YOLO · Whisper · LangChain · LangGraph · Keras
 
 > [!TIP]
-> ### **📊 Data Analysis & Visualization** 
-Pandas · NumPy · Matplotlib · Seaborn · SciPy · Microsoft Excel · SPSS · Stata
+> ## **📊 Data Analysis & Visualization**
+> Pandas · NumPy · Matplotlib · Seaborn · SciPy · Microsoft Excel · SPSS · Stata
 
 > [!IMPORTANT]
-> ### **🗄️ Databases** 
-PostgreSQL · MySQL · SQLite · FAISS Vector DB
+> ## **🗄️ Databases**
+> PostgreSQL · MySQL · SQLite · FAISS Vector DB
 
 > [!WARNING]
-> ### **🚀 Web & Deployment** 
-FastAPI · Streamlit · Pydantic · Docker · Render
+> ## **🚀 Web & Deployment**
+> FastAPI · Streamlit · Pydantic · Docker · Render
 
 > [!CAUTION]
-> ### **🛠️ Languages & Tools** 
-Python · SQL · HTML5 · Git · GitHub · Kaggle · Jupyter
+> ## **🛠️ Languages & Tools**
+> Python · SQL · HTML5 · Git · GitHub · Kaggle · Jupyter
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>

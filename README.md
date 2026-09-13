@@ -40,7 +40,8 @@
 
 
 > [!NOTE]
-> ### **🤖 ML & Deep Learning** — PyTorch · TensorFlow · Scikit-learn · OpenCV · HuggingFace · YOLO · Whisper · LangChain · LangGraph · Keras
+> ### **🤖 ML & Deep Learning** —
+> PyTorch · TensorFlow · Scikit-learn · OpenCV · HuggingFace · YOLO · Whisper · LangChain · LangGraph · Keras
 
 > [!TIP]
 > ### **📊 Data Analysis & Visualization** — Pandas · NumPy · Matplotlib · Seaborn · SciPy · Microsoft Excel · SPSS · Stata

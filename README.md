@@ -1,17 +1,21 @@
-<!-- Wave banner (no text — name handled below for font control) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%"/>
+<!-- Wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,12&height=220&section=header" width="100%"/>
 
-<!-- Premium name -->
+<!-- Name — Instrument Serif (Claude editorial display) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=52&duration=2500&pause=100000&color=6E8EFB&center=true&vCenter=true&width=800&height=70&lines=Miftahul+Alam+Adib" alt="Miftahul Alam Adib" />
+  <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=64&duration=2500&pause=100000&color=D97757&center=true&vCenter=true&width=900&height=90&lines=Miftahul+Alam+Adib" alt="Miftahul Alam Adib" />
 </p>
 
-<!-- Roles — faster animation -->
+<!-- Roles — Inter, faster animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=1800&pause=300&color=8B92FF&center=true&vCenter=true&width=700&lines=Statistics+Undergrad;ML+Researcher+%40+Research+Den;Deep+Learning+%7C+LLMs+%7C+Computer+Vision" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=1800&pause=300&color=8B92FF&center=true&vCenter=true&width=700&lines=Statistics+Undergrad;ML+Researcher+%40+Research+Den;Deep+Learning+%7C+LLMs+%7C+Computer+Vision" alt="Roles" />
 </p>
 
-<p align="center"><i>Easy to read, unlike my code :)</i></p>
+
+
+
+
+<p align="center"><i>I'm easy to read, unlike my code :)</i></p>
 
 <!-- Header icon links (raw brand SVGs, no shields) -->
 <p align="center">

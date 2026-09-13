@@ -39,7 +39,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://tech-stack.wontory.dev/api/orbit?text=ML+Stack&slugs=pytorch,tensorflow,scikitlearn,opencv,huggingface,langchain,jupyter,python,fastapi,docker,postgresql,mysql,sqlite,git,github,streamlit,pandas,numpy,scipy,matplotlib,kaggle" width="400" height="400" />
+![ML stack/tech-stack@orbit](https://tech-stack.wontory.dev/api/orbit?text=ML+stack&slugs=pytorch,tensorflow,scikitlearn,opencv,huggingface,yolo,langchain,langgraph,keras,jupyter,kaggle,git,github,fastapi,streamlit,pydantic,docker,render,vercel)
 </p>
 
 > [!NOTE]

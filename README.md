@@ -12,8 +12,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 
-<h2 align="center"> CONNECT WITH ME </h2>
-
 
 <!-- Header icon links -->
 <p align="center">

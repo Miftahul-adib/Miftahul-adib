@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=35&duration=2200&pause=400&color=9A9A9A&center=true&vCenter=true&width=600&lines=Statistics+Undergrad;ML+Researcher;Deep+Learning+%C2%B7+LLMs+%C2%B7+Computer+Vision" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=2200&pause=400&color=9A9A9A&center=true&vCenter=true&width=600&lines=Statistics+Undergrad;ML+Researcher;Deep+Learning+%C2%B7+LLMs+%C2%B7+Computer+Vision" alt="roles" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24&height=2&width=400" width="400"/>

@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=ML+Researcher+%7C+Research+Associate+%40+Research+Den&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Statistics%20Undergrad%20%C2%B7%20ML%20Researcher&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%"/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="78%" />

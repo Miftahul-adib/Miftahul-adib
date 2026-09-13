@@ -3,7 +3,7 @@
 
 <!-- Name — Instrument Serif (Claude editorial display) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=64&duration=2500&pause=100000&color=D97757&center=true&vCenter=true&width=900&height=90&lines=Miftahul+Alam+Adib" alt="Miftahul Alam Adib" />
+  <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=200&size=34&duration=2500&pause=100000&color=D97757&center=true&vCenter=true&width=900&height=90&lines=Miftahul+Alam+Adib" alt="Miftahul Alam Adib" />
 </p>
 
 <!-- Roles — Inter, faster animation -->

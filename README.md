@@ -39,27 +39,27 @@
 
 
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 
 > [!NOTE]
-> ## **🤖 ML & Deep Learning**
+> ### **🤖 ML & Deep Learning**
 > PyTorch · TensorFlow · Scikit-learn · OpenCV · HuggingFace · YOLO · Whisper · LangChain · LangGraph · Keras
 
 > [!TIP]
-> ## **📊 Data Analysis & Visualization**
+> ### **📊 Data Analysis & Visualization**
 > Pandas · NumPy · Matplotlib · Seaborn · SciPy · Microsoft Excel · SPSS · Stata
 
 > [!IMPORTANT]
-> ## **🗄️ Databases**
+> ### **🗄️ Databases**
 > PostgreSQL · MySQL · SQLite · FAISS Vector DB
 
 > [!WARNING]
-> ## **🚀 Web & Deployment**
+> ### **🚀 Web & Deployment**
 > FastAPI · Streamlit · Pydantic · Docker · Render
 
 > [!CAUTION]
-> ## **🛠️ Languages & Tools**
+> ### **🛠️ Languages & Tools**
 > Python · SQL · HTML5 · Git · GitHub · Kaggle · Jupyter
 
 <br>
@@ -69,7 +69,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
-# 📄 Research Works
+## 📄 Research Works
 
 <table>
 <tr>
@@ -113,7 +113,7 @@
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
-# 🏆 Competitions
+## 🏆 Competitions
 
 <table>
   <tr>
@@ -167,7 +167,7 @@
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
-# 📌 Projects
+## 📌 Projects
 
 <table>
   <tr>

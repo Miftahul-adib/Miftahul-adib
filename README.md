@@ -8,7 +8,11 @@
 
 <h6 align="center">I'm easy to read unlike my code :)</h6>
 
-<h3 align="center"> CONNECT WITH ME </h3>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+
+<h2 align="center"> CONNECT WITH ME </h2>
 
 
 <!-- Header icon links -->
@@ -68,10 +72,6 @@
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
-## 📊 GitHub Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Miftahul-adib&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miftahul-adib&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>

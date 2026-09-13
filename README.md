@@ -1,3 +1,8 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Your%20Name&desc=Statistics%20Undergrad%20%C2%B7%20ML%20Researcher&fontSize=48&fontColor=ffffff&descAlignY=72&descSize=18&animation=fadeIn&fontAlignY=36" width="100%"/>
+
+
+
 <h1 align="center">I'm Miftahul Alam Adib</h1>
 <h6 align="center">I'm easy to read unlike my code :)</h6>
 
@@ -10,9 +15,6 @@
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Statistics%20Undergrad%20%C2%B7%20ML%20Researcher&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%"/>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="78%" />
 </p>

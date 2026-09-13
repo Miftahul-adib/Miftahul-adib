@@ -3,11 +3,11 @@
 <br/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=64&duration=3000&pause=100000&color=E8E3D9&center=true&vCenter=true&width=900&height=88&lines=Miftahul+Alam+Adib" alt="Miftahul Alam Adib" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=56&duration=3000&pause=100000&color=E8E3D9&center=true&vCenter=true&width=900&height=80&lines=Miftahul+Alam+Adib" alt="Miftahul Alam Adib" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=400&size=19&duration=2200&pause=400&color=9A9A9A&center=true&vCenter=true&width=600&lines=Statistics+Undergrad;ML+Researcher;Deep+Learning+%C2%B7+LLMs+%C2%B7+Computer+Vision" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&weight=400&size=19&duration=2200&pause=400&color=9A9A9A&center=true&vCenter=true&width=600&lines=Statistics+Undergrad;ML+Researcher;Deep+Learning+%C2%B7+LLMs+%C2%B7+Computer+Vision" alt="roles" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24&height=2&width=400" width="400"/>

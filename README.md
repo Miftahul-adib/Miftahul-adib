@@ -6,9 +6,6 @@
   <sub><i>I'm easy to read, unlike my code :)</i></sub>
 </div>
 
-<p align="center"><i>I'm easy to read, unlike my code :)</i></p>
-
-
 
 
 

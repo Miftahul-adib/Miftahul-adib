@@ -1,16 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Miftahul%20Alam%20Adib&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<!-- Wave banner (no text — name handled below for font control) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%"/>
 
+<!-- Premium name -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E8EFB&center=true&vCenter=true&width=600&lines=Statistics+Undergrad;ML+Researcher+%40+Research+Den;Deep+Learning+%7C+LLMs+%7C+Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=52&duration=2500&pause=100000&color=6E8EFB&center=true&vCenter=true&width=800&height=70&lines=Miftahul+Alam+Adib" alt="Miftahul Alam Adib" />
+</p>
+
+<!-- Roles — faster animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=1800&pause=300&color=8B92FF&center=true&vCenter=true&width=700&lines=Statistics+Undergrad;ML+Researcher+%40+Research+Den;Deep+Learning+%7C+LLMs+%7C+Computer+Vision" alt="Roles" />
 </p>
 
 <p align="center"><i>Easy to read, unlike my code :)</i></p>
 
+<!-- Header icon links (raw brand SVGs, no shields) -->
 <p align="center">
-  <a href="https://miftahul-adib.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://miftahul-adib.github.io/my-portfolio/" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="34" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/miftahul-alam-adib/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" /></a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/miftahuladib" title="Kaggle"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="34" /></a>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&user=3UH7xHsAAAAJ" title="Google Scholar"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="34" /></a>&nbsp;&nbsp;
+  <a href="mailto:miftahuladib04@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" /></a>
 </p>
 
 <p align="center">
@@ -28,13 +37,28 @@
 
 ## 📫 Connect With Me
 
-<a href="mailto:miftahuladib04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.kaggle.com/miftahuladib"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/miftahul-alam-adib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://scholar.google.com/citations?hl=en&user=3UH7xHsAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+<p align="center">
+  <a href="mailto:miftahuladib04@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" /></a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/miftahuladib" title="Kaggle"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="42" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/miftahul-alam-adib/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" /></a>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&user=3UH7xHsAAAAJ" title="Google Scholar"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="42" /></a>&nbsp;&nbsp;
+  <a href="https://miftahul-adib.github.io/my-portfolio/" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="42" /></a>
+</p>
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 💻 Tech Stack
 

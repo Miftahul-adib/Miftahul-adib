@@ -39,7 +39,7 @@
 ## 💻 Tech Stack
 
 
-![ML stack/tech-stack@orbit](https://tech-stack.wontory.dev/api/orbit?text=ML+stack&slugs=pytorch,tensorflow,scikitlearn,opencv,huggingface,yolo,langchain,langgraph,keras,jupyter,kaggle,git,github,fastapi,streamlit,pydantic,docker,render,vercel)
+![Stacks /tech-stack@orbit](https://tech-stack.wontory.dev/api/orbit?text=ML+stack&slugs=pytorch,tensorflow,scikitlearn,opencv,huggingface,yolo,langchain,langgraph,keras,jupyter,kaggle,git,github,fastapi,streamlit,pydantic,docker,render,vercel)
 
 
 > [!NOTE]

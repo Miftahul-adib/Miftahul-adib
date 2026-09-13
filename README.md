@@ -7,23 +7,21 @@
 
 <p align="center">
   <a href="https://miftahul-adib.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=ML+Researcher+%7C+Research+Associate+%40+Research+Den&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=55" width="100%"/>
 
-<p align="user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="78%" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="78%" />
 </p>
-
-<br>
 
 🔭 Currently contributing as a **Research Associate** at **Research Den** (Remote, US)
 🤝 Open to collaborating on **Machine Learning projects**
 💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories)
 ⚡ Fun fact: **My ML model learns faster than I do 😅**
 
-![ML stack/tech-stack@orbit](https://tech-stack.wontory.dev/api/orbit?text=ML+stack&slugs=pytorch,tensorflow,scikitlearn,opencv,huggingface,yolo,langchain,langgraph,keras,jupyter,kaggle,git,github,fastapi,streamlit,pydantic,docker,render,vercel)
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
@@ -33,23 +31,31 @@
 <a href="mailto:miftahuladib04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.kaggle.com/miftahuladib"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/miftahul-alam-adib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://scholar.google.com/citations?hl=en&user=3UH7xHsAAAAJ&view_op=list_works"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?hl=en&user=3UH7xHsAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 💻 Tech Stack
-> [!NOTE]
-> **ML & Deep Learning** — PyTorch · TensorFlow · Scikit-learn · OpenCV · HuggingFace · YOLO · Whisper · LangChain
 
-> [!TIP]  
-> **Data & Analysis** — Pandas · NumPy · Matplotlib · Seaborn · SciPy · SPSS · Stata
+<p align="center">
+  <img src="https://tech-stack.wontory.dev/api/orbit?text=ML+Stack&slugs=pytorch,tensorflow,scikitlearn,opencv,huggingface,langchain,jupyter,python,fastapi,docker,postgresql,mysql,sqlite,git,github,streamlit,pandas,numpy,scipy,matplotlib,kaggle" width="400" height="400" />
+</p>
+
+> [!NOTE]
+> **🤖 ML & Deep Learning** — PyTorch · TensorFlow · Scikit-learn · OpenCV · HuggingFace · YOLO · Whisper · LangChain · LangGraph · Keras
+
+> [!TIP]
+> **📊 Data Analysis & Visualization** — Pandas · NumPy · Matplotlib · Seaborn · SciPy · Microsoft Excel · SPSS · Stata
 
 > [!IMPORTANT]
-> **Deployment** — FastAPI · Docker · Streamlit · Pydantic · Render
+> **🗄️ Databases** — PostgreSQL · MySQL · SQLite · FAISS Vector DB
 
 > [!WARNING]
-> **Databases** — PostgreSQL · MySQL · SQLite · FAISS
+> **🚀 Web & Deployment** — FastAPI · Streamlit · Pydantic · Docker · Render
+
+> [!CAUTION]
+> **🛠️ Languages & Tools** — Python · SQL · HTML5 · Git · GitHub · Kaggle · Jupyter
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
@@ -130,15 +136,15 @@
     <td width="50%" valign="top">
       <br>
       <b>🗳️ PoliMemeDecode — National Datathon</b><br><br>
-      <i>Political meme classification using a dual-encoder setup (DeBERTa-v3 + RoBERTa) with YOLO logo detection and InsightFace — Private leaderboard rank 20 out of 151 teams</i><br><br>
+      <i>Political meme classification using a dual-encoder setup (DeBERTa-v3 + RoBERTa) with YOLO logo detection and InsightFace — Rank 20 out of 151 teams</i><br><br>
       <i>Team: BackpropSust</i><br><br>
       <a href="https://github.com/Miftahul-adib/PoliMemeDecode"><img src="https://img.shields.io/badge/View_Solution-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
     </td>
     <td width="50%" valign="top">
       <br>
-      <b>🏥 Infinity AI Buildfest: Final round</b><br><br>
-      <i>Built SkinAI — a platform connecting rural patients in Bangladesh with nearby doctors while providing an initial prediction of likely skin conditions. Selected for both the preliminary and final round at BRAC University, Dhaka (Healthcare track).</i><br><br>
+      <b>🏥 Infinity AI Buildfest — Final Round</b><br><br>
+      <i>Built SkinAI — connecting rural patients in Bangladesh with nearby doctors while providing initial skin condition predictions. Selected for preliminary and final round at BRAC University (Healthcare track).</i><br><br>
       <i>Hosted by: BRAC University</i>
       <br><br>
     </td>
@@ -180,15 +186,15 @@
   <tr>
     <td width="50%" valign="top">
       <br>
-      <b>🧠 Bengali LLM Hallucination Detection Challenge</b><br><br>
-      <i>Bengali LLM hallucination detection challenge solution for identifying unsupported or fabricated model outputs.</i>
+      <b>🧠 Bengali LLM Hallucination Detection</b><br><br>
+      <i>Solution for identifying unsupported or fabricated Bengali LLM outputs.</i>
       <br><br>
       <a href="https://github.com/Miftahul-adib/Bengali-LLM-Hallucination-Detection-Challenge"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
     </td>
     <td width="50%" valign="top">
       <br>
-      <b>🎙️ Bengali Long-Form Speech Recognition & Speaker Diarization</b><br><br>
+      <b>🎙️ Bengali Long-Form Speech & Speaker Diarization</b><br><br>
       <i>Long-form Bengali speech recognition and speaker diarization pipeline for multi-speaker audio.</i>
       <br><br>
       <a href="https://github.com/Miftahul-adib/Bengali-Long-Form-Speech-Recognition-Speaker-Diarization"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -202,7 +208,7 @@
     <td width="33%" valign="top">
       <br>
       <b>📊 YouTube Data Analysis</b><br><br>
-      <i>Exploratory analysis of top 100 YouTube channels using Python (Pandas, Matplotlib, Seaborn)</i>
+      <i>EDA of top 100 YouTube channels using Pandas, Matplotlib, Seaborn</i>
       <br><br>
       <a href="https://github.com/Miftahul-adib/Youtube-data-analysis"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
@@ -210,7 +216,7 @@
     <td width="33%" valign="top">
       <br>
       <b>🔍 Retrieval-Augmented QA</b><br><br>
-      <i>RAG pipeline with FAISS vector search and TAPAS for tabular question answering</i>
+      <i>RAG pipeline with FAISS vector search and TAPAS for tabular QA</i>
       <br><br>
       <a href="https://github.com/Miftahul-adib/Retrieval-Augmented-QA-System"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>

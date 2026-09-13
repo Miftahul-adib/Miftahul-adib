@@ -4,20 +4,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E8EFB&center=true&vCenter=true&width=600&lines=Statistics+Undergrad;ML+Researcher+%40+Research+Den;Deep+Learning+%7C+LLMs+%7C+Computer+Vision" alt="Typing SVG" />
 </p>
 
+<p align="center"><i>Easy to read, unlike my code :)</i></p>
+
 <p align="center">
-  <a href="https://miftahul-adib.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+  <a href="https://miftahul-adib.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Miftahul-adib&color=brightgreen&style=flat-square&label=VIEWS" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="42%" align="right" />
 
-🔭 Research Associate @ **Research Den** &nbsp;·&nbsp; 🤝 Open to **ML collaborations** &nbsp;·&nbsp; 💻 [Repositories](https://github.com/Miftahul-adib?tab=repositories)
+- 🔭 Research Associate @ **Research Den** *(Remote, US)*
+- 🤝 Open to collaborating on **ML projects**
+- 💻 Most of my work lives in my [repositories](https://github.com/Miftahul-adib?tab=repositories)
+- ⚡ Fun fact: **My ML model learns faster than I do** 😅
 
-> ⚡ **Fun fact:** My ML model learns faster than I do 😅
-
-
+<br clear="right"/>
 
 ## 📫 Connect With Me
 

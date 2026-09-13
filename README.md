@@ -23,7 +23,7 @@
 - ⚡ Fun fact: **My ML model learns faster than I do** 😅
 
 <!-- Header icon links -->
-<p align="center">
+<p align="center"> Connect:
   <a href="https://miftahul-adib.github.io/my-portfolio/" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="34" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/miftahul-alam-adib/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="34" /></a>&nbsp;&nbsp;
   <a href="https://www.kaggle.com/miftahuladib" title="Kaggle"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="34" /></a>&nbsp;&nbsp;

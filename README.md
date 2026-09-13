@@ -1,16 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24&height=4" width="100%"/>
+
+<br/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=68&duration=3000&pause=100000&color=6E8EFB&center=true&vCenter=true&width=900&height=100&lines=Miftahul+Alam+Adib" alt="Miftahul Alam Adib" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&size=58&duration=3000&pause=100000&color=E8E3D9&center=true&vCenter=true&width=900&height=80&lines=Miftahul+Alam+Adib" alt="Miftahul Alam Adib" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=1800&pause=300&color=8B92FF&center=true&vCenter=true&width=700&lines=Statistics+Undergrad;ML+Researcher+%40+Research+Den;Deep+Learning+%7C+LLMs+%7C+Computer+Vision" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=2200&pause=400&color=9A9A9A&center=true&vCenter=true&width=600&lines=Statistics+Undergrad;ML+Researcher+%40+Research+Den;Deep+Learning+%C2%B7+LLMs+%C2%B7+Computer+Vision" alt="roles" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=200" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24&height=2&width=400" width="400"/>
 
 
 

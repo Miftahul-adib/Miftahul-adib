@@ -8,6 +8,7 @@
 
 <h6 align="center">I'm easy to read unlike my code :)</h6>
 
+<h3 align="center"> CONNECT WITH ME </h3>
 
 
 <!-- Header icon links -->

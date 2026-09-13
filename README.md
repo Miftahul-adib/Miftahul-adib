@@ -40,23 +40,23 @@
 
 
 > [!NOTE]
-> ### **🤖 ML & Deep Learning** —
+> ### **🤖 ML & Deep Learning** 
 PyTorch · TensorFlow · Scikit-learn · OpenCV · HuggingFace · YOLO · Whisper · LangChain · LangGraph · Keras
 
 > [!TIP]
-> ### **📊 Data Analysis & Visualization** —
+> ### **📊 Data Analysis & Visualization** 
 Pandas · NumPy · Matplotlib · Seaborn · SciPy · Microsoft Excel · SPSS · Stata
 
 > [!IMPORTANT]
-> ### **🗄️ Databases** —
+> ### **🗄️ Databases** 
 PostgreSQL · MySQL · SQLite · FAISS Vector DB
 
 > [!WARNING]
-> ### **🚀 Web & Deployment** —
+> ### **🚀 Web & Deployment** 
 FastAPI · Streamlit · Pydantic · Docker · Render
 
 > [!CAUTION]
-> ### **🛠️ Languages & Tools** —
+> ### **🛠️ Languages & Tools** 
 Python · SQL · HTML5 · Git · GitHub · Kaggle · Jupyter
 
 <br>

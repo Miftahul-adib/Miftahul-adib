@@ -3,10 +3,10 @@
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=2200&pause=400&color=9A9A9A&center=true&vCenter=true&width=400&height=24&lines=Statistics+Undergrad;ML+Researcher;Deep+Learning+%C2%B7+LLMs+%C2%B7+Computer+Vision" alt="roles" />
   <br/>
-  <sub><i>I'm easy to read, unlike my code :)</i></sub>
+
 </div>
 
-
+<h6 align="center">I'm easy to read unlike my code :)</h6>
 
 
 

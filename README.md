@@ -1,11 +1,4 @@
-<!-- Wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,15&height=120&section=header" width="100%"/>
-
-<!-- Name — Instrument Serif (Claude editorial display) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=200&size=34&duration=2500&pause=100000&color=D97757&center=true&vCenter=true&width=900&height=90&lines=Miftahul+Alam+Adib" alt="Miftahul Alam Adib" />
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Miftahul%20Alam%20Adib&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Statistics%20Undergrad%20%C2%B7%20ML%20Researcher&descAlignY=60&descSize=18" width="100%"/>
 <!-- Roles — Inter, faster animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=1800&pause=300&color=8B92FF&center=true&vCenter=true&width=700&lines=Statistics+Undergrad;ML+Researcher+%40+Research+Den;Deep+Learning+%7C+LLMs+%7C+Computer+Vision" alt="Roles" />

@@ -12,7 +12,6 @@
 
 
 
-<p align="center"><i>I'm easy to read, unlike my code :)</i></p>
 
 <!-- Header icon links (raw brand SVGs, no shields) -->
 <p align="center">

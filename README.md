@@ -73,7 +73,7 @@
 
 <table>
 <tr>
-<td width="8" style="background:#58a6ff; border-radius:4px;"></td>
+
 <td>
       <br>
       <b>🛌 Sleep Disorder Prediction & Analysis</b><br><br>

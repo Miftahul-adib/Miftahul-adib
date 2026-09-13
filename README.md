@@ -39,7 +39,7 @@
 
 
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 
 > [!NOTE]
@@ -69,7 +69,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
-## 📄 Research Works
+# 📄 Research Works
 
 <table>
 <tr>
@@ -113,7 +113,7 @@
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
-## 🏆 Competitions
+# 🏆 Competitions
 
 <table>
   <tr>
@@ -167,7 +167,7 @@
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
-## 📌 Projects
+# 📌 Projects
 
 <table>
   <tr>

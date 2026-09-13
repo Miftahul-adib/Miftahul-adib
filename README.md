@@ -23,6 +23,9 @@
 💻 Most of my work is available on my [GitHub Repositories](https://github.com/Miftahul-adib?tab=repositories)
 ⚡ Fun fact: **My ML model learns faster than I do 😅**
 
+https://tech-stack.wontory.dev/api/orbit?text=ML+stack&slugs=pytorch,tensorflow,scikitlearn,opencv,huggingface,yolo,langchain,langgraph,keras,numpy,pandas,jupyter,kaggle,git,github,fastapi,streamlit,pydantic,docker,render,vercel,postgresql,mysql,sqlite,matplotlib,seaborn,scipy,microsoftexcel,spss,stata,openai,meta
+
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>

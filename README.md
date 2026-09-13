@@ -357,6 +357,12 @@
 
 ---
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miftahul-adib/Miftahul-adib/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Miftahul-adib/Miftahul-adib/output/github-contribution-grid-snake.svg"/>
+</picture>
+
 <div align="center">
   <h2>If life gives you bugs, watch memes 😅</h2>
   <img src="If%20life%20gives%20you%20bugs%2C%20make%20memes.jpg" width="550" alt="Bug meme">

@@ -23,13 +23,14 @@
 - ⚡ Fun fact: **My ML model learns faster than I do** 😅
 
 <p align="center">
-  <sub>
-    <a href="https://miftahul-adib.github.io/my-portfolio/">Portfolio</a> &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/miftahul-alam-adib/">LinkedIn</a> &nbsp;·&nbsp;
-    <a href="https://www.kaggle.com/miftahuladib">Kaggle</a> &nbsp;·&nbsp;
-    <a href="https://scholar.google.com/citations?hl=en&user=3UH7xHsAAAAJ">Scholar</a> &nbsp;·&nbsp;
-    <a href="mailto:miftahuladib04@gmail.com">Email</a>
-  </sub>
+  <b>C&nbsp;O&nbsp;N&nbsp;N&nbsp;E&nbsp;C&nbsp;T</b>
+</p>
+<p align="center">
+  <a href="https://miftahul-adib.github.io/my-portfolio/" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="28" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/miftahul-alam-adib/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/miftahuladib" title="Kaggle"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="28" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&user=3UH7xHsAAAAJ" title="Google Scholar"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" height="28" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:miftahuladib04@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" /></a>
 </p>
 
 

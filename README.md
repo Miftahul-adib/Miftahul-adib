@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,11,20&height=200&section=header&text=Miftahul%20Alam%20Adib&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Statistics%20Undergrad%20%7C%20ML%20Researcher&descAlignY=70&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,11,20&height=400&section=header&text=Miftahul%20Alam%20Adib&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Statistics%20Undergrad%20%7C%20ML%20Researcher&descAlignY=70&descSize=16" width="100%"/>
 
 <p align="center"><i>I'm easy to read, unlike my code :)</i></p>
 

@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=56&duration=3000&pause=100000&color=E8E3D9&center=true&vCenter=true&width=900&height=62&lines=Miftahul+Alam+Adib" alt="Miftahul Alam Adib" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=48&duration=3000&pause=100000&color=E8E3D9&center=true&vCenter=true&width=900&height=58&lines=Miftahul+Alam+Adib" alt="Miftahul Alam Adib" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&weight=400&size=19&duration=2200&pause=400&color=9A9A9A&center=true&vCenter=true&width=400&height=26&lines=Statistics+Undergrad;ML+Researcher;Deep+Learning+%C2%B7+LLMs+%C2%B7+Computer+Vision" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=2200&pause=400&color=9A9A9A&center=true&vCenter=true&width=400&height=24&lines=Statistics+Undergrad;ML+Researcher;Deep+Learning+%C2%B7+LLMs+%C2%B7+Computer+Vision" alt="roles" />
   <br/>
-
+  <sub><i>I'm easy to read, unlike my code :)</i></sub>
 </div>
 
 <p align="center"><i>I'm easy to read, unlike my code :)</i></p>

@@ -4,32 +4,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E8EFB&center=true&vCenter=true&width=600&lines=Statistics+Undergrad;ML+Researcher+%40+Research+Den;Deep+Learning+%7C+LLMs+%7C+Computer+Vision" alt="Typing SVG" />
 </p>
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<p align="center">
+  <a href="https://miftahul-adib.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Miftahul-adib&color=brightgreen&style=flat-square&label=VIEWS" />
+</p>
 
-### 👋 About me
-<i>Easy to read, unlike my code :)</i>
+---
 
-- 🔭 Research Associate @ **Research Den** *(Remote, US)*
-- 🤝 Open to collaborating on **ML projects**
-- 💻 See my work in my [repositories](https://github.com/Miftahul-adib?tab=repositories)
-- ⚡ Fun fact: **My ML model learns faster than I do** 😅
+🔭 Research Associate @ **Research Den** &nbsp;·&nbsp; 🤝 Open to **ML collaborations** &nbsp;·&nbsp; 💻 [Repositories](https://github.com/Miftahul-adib?tab=repositories)
 
-<a href="https://miftahul-adib.github.io/my-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Miftahul-adib&color=brightgreen&style=flat-square&label=VIEWS" />
-
-</td>
-<td valign="top" width="45%">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" />
-</td>
-</tr>
-</table>
-
-
-
+> ⚡ **Fun fact:** My ML model learns faster than I do 😅
 
 
 

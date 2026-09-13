@@ -1,7 +1,5 @@
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=200&section=header&text=Miftahul%20Alam%20Adib&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Statistics%20Undergrad%20%C2%B7%20ML%20Researcher&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=220&section=header&text=Miftahul%20Alam%20Adib&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=ML%20Researcher%20%40%20Research%20Den&descAlignY=65&descSize=18" width="100%"/>
 
 
 

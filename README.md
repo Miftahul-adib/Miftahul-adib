@@ -72,8 +72,9 @@
 ## 📄 Research Works
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="8" style="background:#58a6ff; border-radius:4px;"></td>
+<td>
       <br>
       <b>🛌 Sleep Disorder Prediction & Analysis</b><br><br>
       <i>A Dual Pipeline Machine Learning Framework for Automated Multi-Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning</i>

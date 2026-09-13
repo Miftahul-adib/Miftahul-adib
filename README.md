@@ -8,19 +8,8 @@
 
 <h6 align="center">I'm easy to read unlike my code :)</h6>
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 
-
-<!-- Header icon links -->
-<p align="center">
-  <a href="https://miftahul-adib.github.io/my-portfolio/" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="34" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/miftahul-alam-adib/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="34" /></a>&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/miftahuladib" title="Kaggle"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="34" /></a>&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?hl=en&user=3UH7xHsAAAAJ" title="Google Scholar"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" height="34" /></a>&nbsp;&nbsp;
-  <a href="mailto:miftahuladib04@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="34" /></a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Miftahul-adib&color=brightgreen&style=flat-square&label=VIEWS" />
@@ -32,6 +21,15 @@
 - 🤝 Open to collaborating on **ML projects**
 - 💻 Most of my work lives in my [repositories](https://github.com/Miftahul-adib?tab=repositories)
 - ⚡ Fun fact: **My ML model learns faster than I do** 😅
+
+<!-- Header icon links -->
+<p align="center">
+  <a href="https://miftahul-adib.github.io/my-portfolio/" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="34" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/miftahul-alam-adib/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="34" /></a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/miftahuladib" title="Kaggle"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="34" /></a>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&user=3UH7xHsAAAAJ" title="Google Scholar"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" height="34" /></a>&nbsp;&nbsp;
+  <a href="mailto:miftahuladib04@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="34" /></a>
+</p>
 
 <br clear="right"/>
 

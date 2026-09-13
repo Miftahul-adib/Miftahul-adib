@@ -3,7 +3,7 @@
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&weight=400&size=19&duration=2200&pause=400&color=9A9A9A&center=true&vCenter=true&width=400&height=26&lines=Statistics+Undergrad;ML+Researcher;Deep+Learning+%C2%B7+LLMs+%C2%B7+Computer+Vision" alt="roles" />
   <br/>
-  <i>I'm easy to read, unlike my code :)</i>
+ <p align="center"><i>I'm easy to read, unlike my code :)</i></p>
 </div>
 
 

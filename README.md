@@ -38,50 +38,17 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 💻 Tech Stack
+> [!NOTE]
+> **ML & Deep Learning** — PyTorch · TensorFlow · Scikit-learn · OpenCV · HuggingFace · YOLO · Whisper · LangChain
 
-**Programming Languages**
+> [!TIP]  
+> **Data & Analysis** — Pandas · NumPy · Matplotlib · Seaborn · SciPy · SPSS · Stata
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,html&theme=dark" /></a>
-<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+> [!IMPORTANT]
+> **Deployment** — FastAPI · Docker · Streamlit · Pydantic · Render
 
-**Machine Learning**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" /></a>
-<img src="https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-<img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
-**Data Analysis & Visualization**
-
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/Seaborn-2D3F72?style=for-the-badge&logo=Seaborn&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-**Statistical Software**
-
-<img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/Stata-1A476F?style=for-the-badge&logoColor=white" />
-
-**Databases**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" /></a>
-<img src="https://img.shields.io/badge/FAISS-Vector_Database-blue?style=for-the-badge" />
-
-**Web & Deployment**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,docker&theme=dark" /></a>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-
-**Tools & Platforms**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github&theme=dark" /></a>
-<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+> [!WARNING]
+> **Databases** — PostgreSQL · MySQL · SQLite · FAISS
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>

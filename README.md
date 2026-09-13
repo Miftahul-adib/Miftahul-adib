@@ -1,9 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Miftahul%20Alam%20Adib&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Statistics%20Undergrad%20%C2%B7%20ML%20Researcher&descAlignY=60&descSize=18" width="100%"/>
-<!-- Roles — Inter, faster animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=1800&pause=300&color=8B92FF&center=true&vCenter=true&width=700&lines=Statistics+Undergrad;ML+Researcher+%40+Research+Den;Deep+Learning+%7C+LLMs+%7C+Computer+Vision" alt="Roles" />
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=180&section=header&text=Miftahul%20Alam%20Adib&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=ML%20Researcher%20%40%20Research%20Den&descAlignY=65&descSize=16" width="100%"/>
 
 
 

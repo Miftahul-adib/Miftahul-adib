@@ -1,5 +1,5 @@
 <!-- Wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,12&height=220&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,15&height=120&section=header" width="100%"/>
 
 <!-- Name — Instrument Serif (Claude editorial display) -->
 <p align="center">

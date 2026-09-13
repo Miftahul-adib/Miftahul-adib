@@ -22,15 +22,14 @@
 - 💻 Most of my work lives in my [repositories](https://github.com/Miftahul-adib?tab=repositories)
 - ⚡ Fun fact: **My ML model learns faster than I do** 😅
 
-<!-- Header icon links -->
-<p align="center"> Connect:
-  <a href="https://miftahul-adib.github.io/my-portfolio/" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="34" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/miftahul-alam-adib/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="34" /></a>&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/miftahuladib" title="Kaggle"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="34" /></a>&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?hl=en&user=3UH7xHsAAAAJ" title="Google Scholar"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" height="34" /></a>&nbsp;&nbsp;
-  <a href="mailto:miftahuladib04@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="34" /></a>
+<p align="center">
+  <sub><b>CONNECT</b></sub><br/>
+  <a href="https://miftahul-adib.github.io/my-portfolio/" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="28" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/miftahul-alam-adib/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/miftahuladib" title="Kaggle"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="28" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&user=3UH7xHsAAAAJ" title="Google Scholar"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" height="28" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:miftahuladib04@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" /></a>
 </p>
-
 <br clear="right"/>
 
 

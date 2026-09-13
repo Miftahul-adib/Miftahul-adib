@@ -40,8 +40,11 @@
 
 
 <!-- Small -->
-![ML stack](https://tech-stack.wontory.dev/api/orbit?text=ML+stack&slugs=pytorch,tensorflow,scikitlearn,opencv,huggingface,yolo,langchain,langgraph,keras,jupyter,kaggle,git,github,fastapi,streamlit,pydantic,docker,render,vercel&size=small)
-
+<img
+  src="https://tech-stack.wontory.dev/api/orbit?text=ML+stack&slugs=pytorch,tensorflow,scikitlearn,opencv,huggingface,yolo,langchain,langgraph,keras,jupyter,kaggle,git,github,fastapi,streamlit,pydantic,docker,render,vercel"
+  alt="ML stack"
+  style="max-width: 100%; width: 600px; height: auto;"
+/>
 > [!NOTE]
 > **🤖 ML & Deep Learning** — PyTorch · TensorFlow · Scikit-learn · OpenCV · HuggingFace · YOLO · Whisper · LangChain · LangGraph · Keras
 

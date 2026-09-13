@@ -1,6 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=200&section=header&text=Miftahul%20Alam%20Adib&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20Researcher%20%40%20Research%20Den&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header" width="100%"/>
 
-
+<h1 align="center">Miftahul Alam Adib</h1>
+<p align="center"><b>Statistics Undergrad · ML Researcher @ Research Den</b></p>
 
 
 

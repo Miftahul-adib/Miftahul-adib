@@ -66,6 +66,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=2" width="100%"/>
 
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
 ## 📄 Research Works
 
 <table>
@@ -75,9 +78,9 @@
       <b>🛌 Sleep Disorder Prediction & Analysis</b><br><br>
       <i>A Dual Pipeline Machine Learning Framework for Automated Multi-Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning</i>
       <br><br>
-      <a href="https://github.com/Miftahul-adib/sleep-disorder"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://github.com/Miftahul-adib/sleep-disorder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       &nbsp;
-      <a href="https://arxiv.org/abs/2601.05814"><img src="https://img.shields.io/badge/arXiv-6C63FF?style=for-the-badge&logo=arxiv&logoColor=white"></a>
+      <a href="https://arxiv.org/abs/2601.05814"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white"></a>
       <br><br>
     </td>
     <td width="50%" valign="top">
@@ -85,9 +88,9 @@
       <b>📡 Coverage Preserving Indoor Localization</b><br><br>
       <i>A Coverage Preserving Ensemble Framework with Minority Recovery for Robust Indoor Localization</i>
       <br><br>
-      <a href="https://github.com/Miftahul-adib/Coverage-preserving-localization"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://github.com/Miftahul-adib/Coverage-preserving-localization"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       &nbsp;
-      <a href="https://www.jstage.jst.go.jp/article/ijabc/2026/2/2026_160/_article"><img src="https://img.shields.io/badge/Paper-6C63FF?style=for-the-badge&logo=googledocs&logoColor=white"></a>
+      <a href="https://www.jstage.jst.go.jp/article/ijabc/2026/2/2026_160/_article"><img src="https://img.shields.io/badge/Paper-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"></a>
       <br><br>
     </td>
   </tr>
@@ -97,9 +100,9 @@
       <b>🫁 CKD Explainable AI</b><br><br>
       <i>Explainable Machine Learning for Chronic Kidney Disease Classification from Routine Urinalysis and Diabetes Records</i>
       <br><br>
-      <a href="https://github.com/Munfa/CKD-Explainable-AI"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://github.com/Munfa/CKD-Explainable-AI"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       &nbsp;
-      <a href="https://www.researchsquare.com/article/rs-10968179/v1"><img src="https://img.shields.io/badge/Preprint-6C63FF?style=for-the-badge&logo=researchsquare&logoColor=white"></a>
+      <a href="https://www.researchsquare.com/article/rs-10968179/v1"><img src="https://img.shields.io/badge/Preprint-B31B1B?style=for-the-badge&logo=researchsquare&logoColor=white"></a>
       <br><br>
     </td>
     <td width="50%" valign="top"></td>
@@ -107,7 +110,7 @@
 </table>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD166&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 🏆 Competitions
 
@@ -118,7 +121,7 @@
       <b>🎙️ Shobdotori: AIFication — 4th Place</b><br><br>
       <i>Bangla dialect speech recognition using a dual-stage fine-tuning pipeline with Whisper Medium and LoRA</i><br><br>
       <i>Team: BackpropSust</i><br><br>
-      <a href="https://github.com/Miftahul-adib/AIFication-4th-Place-Solution-BackpropSust"><img src="https://img.shields.io/badge/View_Solution-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://github.com/Miftahul-adib/AIFication-4th-Place-Solution-BackpropSust"><img src="https://img.shields.io/badge/View_Solution-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
     </td>
     <td width="50%" valign="top">
@@ -126,7 +129,7 @@
       <b>🚗 DUET AI Hackathon — RoadVision: Top 15</b><br><br>
       <i>YOLOv8-based multi-class vehicle detection pipeline for Bangladesh highway CCTV footage — Top 15 Finalist out of 101 teams</i><br><br>
       <i>Team: BackpropSust</i><br><br>
-      <a href="https://github.com/Miftahul-adib/Duet-AI-Hackathon-solution"><img src="https://img.shields.io/badge/View_Solution-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://github.com/Miftahul-adib/Duet-AI-Hackathon-solution"><img src="https://img.shields.io/badge/View_Solution-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
     </td>
   </tr>
@@ -136,7 +139,7 @@
       <b>🗳️ PoliMemeDecode — National Datathon</b><br><br>
       <i>Political meme classification using a dual-encoder setup (DeBERTa-v3 + RoBERTa) with YOLO logo detection and InsightFace — Rank 20 out of 151 teams</i><br><br>
       <i>Team: BackpropSust</i><br><br>
-      <a href="https://github.com/Miftahul-adib/PoliMemeDecode"><img src="https://img.shields.io/badge/View_Solution-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://github.com/Miftahul-adib/PoliMemeDecode"><img src="https://img.shields.io/badge/View_Solution-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
     </td>
     <td width="50%" valign="top">
@@ -153,7 +156,7 @@
       <b>📝 Build With Gemma @Bangladesh 2026 — 4th Place (Online Track)</b><br><br>
       <i>Khata (খাতা) — a Gemma-powered pipeline that transforms whiteboard photos into structured board-exam practice</i><br><br>
       <i>Team: BackpropSust | Hosted by Kaggle, Sponsored by Google DeepMind</i><br><br>
-      <a href="https://www.kaggle.com/competitions/build-with-gemma-bangladesh/writeups/new-writeup-1785044974927"><img src="https://img.shields.io/badge/View_Writeup-FFD166?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+      <a href="https://www.kaggle.com/competitions/build-with-gemma-bangladesh/writeups/new-writeup-1785044974927"><img src="https://img.shields.io/badge/View_Writeup-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
       <br><br>
     </td>
     <td width="50%" valign="top"></td>
@@ -161,7 +164,7 @@
 </table>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00C9A7&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 ## 📌 Projects
 
@@ -172,9 +175,9 @@
       <b>🎓 ScholarLink — Faculty Finder</b><br><br>
       <i>AI-Powered Research Matchmaking Platform — semantic search enabling students to discover faculty and PhD researchers at SUST using natural language queries (611+ faculty profiles indexed)</i>
       <br><br>
-      <a href="https://faculty-finder-phi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C9A7?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+      <a href="https://faculty-finder-phi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
       &nbsp;
-      <a href="https://github.com/Miftahul-adib/Faculty-finder"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://github.com/Miftahul-adib/Faculty-finder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
     </td>
   </tr>
@@ -187,7 +190,7 @@
       <b>🧠 Bengali LLM Hallucination Detection</b><br><br>
       <i>Solution for identifying unsupported or fabricated Bengali LLM outputs.</i>
       <br><br>
-      <a href="https://github.com/Miftahul-adib/Bengali-LLM-Hallucination-Detection-Challenge"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://github.com/Miftahul-adib/Bengali-LLM-Hallucination-Detection-Challenge"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
     </td>
     <td width="50%" valign="top">
@@ -195,7 +198,7 @@
       <b>🎙️ Bengali Long-Form Speech & Speaker Diarization</b><br><br>
       <i>Long-form Bengali speech recognition and speaker diarization pipeline for multi-speaker audio.</i>
       <br><br>
-      <a href="https://github.com/Miftahul-adib/Bengali-Long-Form-Speech-Recognition-Speaker-Diarization"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://github.com/Miftahul-adib/Bengali-Long-Form-Speech-Recognition-Speaker-Diarization"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
     </td>
   </tr>
@@ -208,7 +211,7 @@
       <b>📊 YouTube Data Analysis</b><br><br>
       <i>EDA of top 100 YouTube channels using Pandas, Matplotlib, Seaborn</i>
       <br><br>
-      <a href="https://github.com/Miftahul-adib/Youtube-data-analysis"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://github.com/Miftahul-adib/Youtube-data-analysis"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
     </td>
     <td width="33%" valign="top">
@@ -216,7 +219,7 @@
       <b>🔍 Retrieval-Augmented QA</b><br><br>
       <i>RAG pipeline with FAISS vector search and TAPAS for tabular QA</i>
       <br><br>
-      <a href="https://github.com/Miftahul-adib/Retrieval-Augmented-QA-System"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://github.com/Miftahul-adib/Retrieval-Augmented-QA-System"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
     </td>
     <td width="33%" valign="top">
@@ -224,14 +227,22 @@
       <b>🚗 Roadside Object Detection</b><br><br>
       <i>Real-time object detection using YOLOv11n with custom training pipeline</i>
       <br><br>
-      <a href="https://github.com/Miftahul-adib/Roadside-object-detection"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://github.com/Miftahul-adib/Roadside-object-detection"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
     </td>
   </tr>
 </table>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+
+
+
+
+
+
+
 
 ## 🐍 Contribution Activity
 

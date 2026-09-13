@@ -1,9 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=260&section=header&text=Miftahul%20Alam%20Adib&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Statistics%20Undergrad%20%C2%B7%20ML%20Researcher&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=180&section=header&text=%3E%20Miftahul%20Alam%20Adib&fontSize=42&fontColor=6EE7B7&animation=fadeIn&fontAlignY=48&desc=statistics_undergrad%20%7C%20ml_researcher&descAlignY=68&descSize=16" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=1800&pause=300&color=A0A8FF&center=true&vCenter=true&width=650&lines=Deep+Learning+%7C+LLMs+%7C+Computer+Vision;Building+models+that+learn+faster+than+me" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=400&color=6EE7B7&center=true&vCenter=true&width=700&lines=%24+whoami+--role;%3E+ML+Researcher+%40+Research+Den;%3E+Deep+Learning+%7C+LLMs+%7C+CV" alt="roles" />
 </p>
-
 
 
 

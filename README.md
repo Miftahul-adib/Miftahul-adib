@@ -106,7 +106,14 @@
       <a href="https://www.researchsquare.com/article/rs-10968179/v1"><img src="https://img.shields.io/badge/Preprint-B31B1B?style=for-the-badge&logo=researchsquare&logoColor=white"></a>
       <br><br>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <br>
+      <b>🩺 Blood Glucose Prediction on OhioT1DM</b><br><br>
+      <i>30-minute ahead CGM forecasting using ensemble ML — preprocessing grid search, multi-algorithm ensembles, and dual LightGBM strategies with full SHAP & LIME explainability</i>
+      <br><br>
+      <a href="https://github.com/Miftahul-adib/Blood-Glucose-Prediction-on-OhioT1DM"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+      <br><br>
+    </td>
   </tr>
 </table>
 
@@ -236,13 +243,6 @@
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
-
-
-
-
-
-
 
 
 ## 🐍 Contribution Activity

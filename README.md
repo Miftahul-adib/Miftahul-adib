@@ -181,21 +181,14 @@
       <a href="https://github.com/Miftahul-adib/Faculty-finder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
     </td>
-    <td width="30%" valign="top"></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="30%" valign="top">
       <br>
       <b>🩺 Blood Glucose Prediction on OhioT1DM</b><br><br>
-      <i>30-minute ahead CGM forecasting using ensemble ML — preprocessing grid search, multi-algorithm ensembles, and dual LightGBM strategies with full SHAP & LIME explainability</i>
+      <i>30-minute ahead CGM forecasting using ensemble ML with full SHAP & LIME explainability</i>
       <br><br>
       <a href="https://github.com/Miftahul-adib/Blood-Glucose-Prediction-on-OhioT1DM"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 

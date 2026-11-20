@@ -17,6 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="42%" align="right" />
 
+
 - 🔭 Research Associate @ **Research Den** *(Remote, US)*
 - 🤝 Open to collaborating on **ML projects**
 - 💻 Most of my work lives in my [repositories](https://github.com/Miftahul-adib?tab=repositories)
@@ -72,16 +73,15 @@
 ## 📄 Research Works
 
 <table>
-<tr>
-
-<td>
+  <tr>
+    <td width="50%" valign="top">
       <br>
       <b>🛌 Sleep Disorder Prediction & Analysis</b><br><br>
       <i>A Dual Pipeline Machine Learning Framework for Automated Multi-Class Sleep Disorder Screening Using Hybrid Resampling and Ensemble Learning</i>
       <br><br>
       <a href="https://github.com/Miftahul-adib/sleep-disorder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
       &nbsp;
-      <a href="https://arxiv.org/abs/2601.05814"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white"></a>
+      <a href="https://doi.org/10.1007/s13278-026-01651-y"><img src="https://img.shields.io/badge/Paper-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"></a>
       <br><br>
     </td>
     <td width="50%" valign="top">
@@ -106,7 +106,14 @@
       <a href="https://www.researchsquare.com/article/rs-10968179/v1"><img src="https://img.shields.io/badge/Preprint-B31B1B?style=for-the-badge&logo=researchsquare&logoColor=white"></a>
       <br><br>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <br>
+      <b>📈 CGM Forecasting Sensitivity Analysis</b><br><br>
+      <i>Sensitivity of Short-Term CGM Forecasting to Evaluation Protocol, Historical Window Length, and Prediction Horizon</i>
+      <br><br>
+      <a href="https://iccit.org.bd/2026/"><img src="https://img.shields.io/badge/Accepted_at_ICCIT_2026-2EA44F?style=for-the-badge"></a>
+      <br><br>
+    </td>
   </tr>
 </table>
 
@@ -120,7 +127,7 @@
       <br>
       <b>🌪️ Natural Hazard Exposure & Child Literacy in Bangladesh</b><br><br>
       <i>Recent Natural Hazard Exposure and Foundational Reading and Numeracy Skills among Children Aged 7–14 Years in Bangladesh</i><br><br>
-      <i>Nationally representative study using MICS 2025 data examining the association between natural hazard exposure and foundational learning outcomes.</i>
+      <i>Nationally representative study using MICS 2025 data examining the association between recent natural hazard exposure and foundational reading and numeracy outcomes among Bangladeshi children aged 7–14.</i>
       <br><br>
     </td>
     <td width="50%" valign="top">
@@ -134,20 +141,11 @@
   <tr>
     <td width="50%" valign="top">
       <br>
-      <b>📈 CGM Forecasting Sensitivity Analysis</b><br><br>
-      <i>Sensitivity of Short-Term CGM Forecasting to Evaluation Protocol, Historical Window Length, and Prediction Horizon</i><br><br>
-      <i>Systematic sensitivity analysis of short-term continuous glucose monitoring forecasting models across evaluation protocols, window lengths, and prediction horizons.</i>
-      <br><br>
-    </td>
-    <td width="50%" valign="top">
-      <br>
       <b>🩺 Cross-Population CGM Forecasting</b><br><br>
       <i>Cross-Population Generalization in Short-Term Continuous Glucose Monitoring Forecasting: A Leakage-Controlled Evaluation Framework</i><br><br>
       <i>Developing a leakage-controlled evaluation framework to assess cross-population generalization of short-term CGM forecasting models.</i>
       <br><br>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <br>
       <b>🫁 Three-Dataset CKD Harmonization</b><br><br>
@@ -155,7 +153,6 @@
       <i>Harmonizing three CKD datasets for cross-dataset analysis, external validation, and explainable machine learning.</i>
       <br><br>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -205,6 +202,8 @@
       <b>📝 Build With Gemma @Bangladesh 2026 — 4th Place (Online Track)</b><br><br>
       <i>Khata (খাতা) — a Gemma-powered pipeline that transforms whiteboard photos into structured board-exam practice</i><br><br>
       <i>Team: BackpropSust | Hosted by Kaggle, Sponsored by Google DeepMind</i><br><br>
+      <a href="https://gamma-kappa-nine.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white"></a>
+      &nbsp;
       <a href="https://www.kaggle.com/competitions/build-with-gemma-bangladesh/writeups/new-writeup-1785044974927"><img src="https://img.shields.io/badge/View_Writeup-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
       <br><br>
     </td>

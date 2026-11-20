@@ -125,15 +125,13 @@
   <tr>
     <td width="50%" valign="top">
       <br>
-      <b>🌪️ Natural Hazard Exposure & Child Literacy in Bangladesh</b><br><br>
-      <i>Recent Natural Hazard Exposure and Foundational Reading and Numeracy Skills among Children Aged 7–14 Years in Bangladesh</i><br><br>
+      <b>Recent Natural Hazard Exposure and Foundational Reading and Numeracy Skills among Children Aged 7–14 Years in Bangladesh</b><br><br>
       <i>Nationally representative study using MICS 2025 data examining the association between recent natural hazard exposure and foundational reading and numeracy outcomes among Bangladeshi children aged 7–14.</i>
       <br><br>
     </td>
     <td width="50%" valign="top">
       <br>
-      <b>🧠 SYMTOLOGY: Code-Mixed Mental Health Dataset</b><br><br>
-      <i>Generating a Code-Mixed Synthetic Dataset for Mental Health with an Ontology-Driven Prompting Framework in a Low-Resource Language</i><br><br>
+      <b>SYMTOLOGY: Generating a Code-Mixed Synthetic Dataset for Mental Health with an Ontology-Driven Prompting Framework in a Low-Resource Language</b><br><br>
       <i>Building an ontology-driven prompting framework to synthesize code-mixed mental health data in a low-resource language setting.</i>
       <br><br>
     </td>
@@ -141,22 +139,18 @@
   <tr>
     <td width="50%" valign="top">
       <br>
-      <b>🩺 Cross-Population CGM Forecasting</b><br><br>
-      <i>Cross-Population Generalization in Short-Term Continuous Glucose Monitoring Forecasting: A Leakage-Controlled Evaluation Framework</i><br><br>
+      <b>Cross-Population Generalization in Short-Term Continuous Glucose Monitoring Forecasting: A Leakage-Controlled Evaluation Framework</b><br><br>
       <i>Developing a leakage-controlled evaluation framework to assess cross-population generalization of short-term CGM forecasting models.</i>
       <br><br>
     </td>
     <td width="50%" valign="top">
       <br>
-      <b>🫁 Three-Dataset CKD Harmonization</b><br><br>
-      <i>Three-Dataset Harmonization Strategy for Cross-Dataset Chronic Kidney Disease Analysis, External Validation, and Explainable Machine Learning</i><br><br>
+      <b>Three-Dataset Harmonization Strategy for Cross-Dataset Chronic Kidney Disease Analysis, External Validation, and Explainable Machine Learning</b><br><br>
       <i>Harmonizing three CKD datasets for cross-dataset analysis, external validation, and explainable machine learning.</i>
       <br><br>
     </td>
   </tr>
 </table>
-
-
 
 ## 🏆 Competitions
 
